@@ -1,0 +1,731 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: tomaz@tomaz.me
+Received: by 10.50.40.162 with SMTP id y2csp40094igk;
+        Thu, 15 Aug 2013 16:19:39 -0700 (PDT)
+X-Received: by 10.49.83.105 with SMTP id p9mr22388603qey.11.1376608779361;
+        Thu, 15 Aug 2013 16:19:39 -0700 (PDT)
+Return-Path: <bounce-mc.us6_15213935.351321-tomaz=tomaz.me@mail126.us2.mcsv.net>
+Received: from mail126.us2.mcsv.net (mail126.us2.mcsv.net. [173.231.139.126])
+        by mx.google.com with ESMTP id kx2si1471130qeb.27.2013.08.15.16.19.39
+        for <tomaz@tomaz.me>;
+        Thu, 15 Aug 2013 16:19:39 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us6_15213935.351321-tomaz=tomaz.me@mail126.us2.mcsv.net designates 173.231.139.126 as permitted sender) client-ip=173.231.139.126;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us6_15213935.351321-tomaz=tomaz.me@mail126.us2.mcsv.net designates 173.231.139.126 as permitted sender) smtp.mail=bounce-mc.us6_15213935.351321-tomaz=tomaz.me@mail126.us2.mcsv.net;
+       dkim=pass header.i=eric.holscher+writethedocs=3Dgmail.com@mail126.us2.mcsv.net;
+       dmarc=fail (p=NONE dis=NONE) d=gmail.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail126.us2.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=eric.holscher+writethedocs=3Dgmail.com@mail126.us2.mcsv.net;
+ bh=28HR1ClslKyu4C7izAr6UNDplFY=;
+ b=rDAYl1vlu87Ik16e2xHwZ/F2y1QaK46OJDhh6/F+dmEye88lm/1DBtgL/a5N9N9L7YiaBqzCIJTT
+   IPd2h4wZMi3aCqfZwflQrxcVOAbMDiUUo1Gwlw0dC8Do6I3SJ79OpthkzULV3NhuwhSyO9fFPpuN
+   b+aPWgtCsoTwd1UDois=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail126.us2.mcsv.net;
+ b=tFtb6XMvxGU+OYwTWty3/gB6bTGHYvyuo50v29CsNmf7K4Y8B78Jb+pExZNsMZUjXxHcLESMbSSL
+   sK9rBW42x2Rh1Tjbfo+87SXxx777spCifObVlXUnp3/kGuN7rISWi63qFq8AjMCODCQTYNrsPxyW
+   VwPR/hqG0bTuChL9tOY=;
+Received: from (127.0.0.1) by mail126.us2.mcsv.net (PowerMTA(TM) v3.5r16) id h1lh0m11djo4 for <tomaz@tomaz.me>; Thu, 15 Aug 2013 23:19:38 +0000 (envelope-from <bounce-mc.us6_15213935.351321-tomaz=tomaz.me@mail126.us2.mcsv.net>)
+Subject: =?utf-8?Q?Announcing=20Conference=20Videos=2C=20A=20Meetup=20Group=2C=20and=20A=20Mailing=20List?=
+From: =?utf-8?Q?Write=20The=20Docs?= <eric.holscher+writethedocs@gmail.com>
+Reply-To: =?utf-8?Q?Write=20The=20Docs?= <eric.holscher+writethedocs@gmail.com>
+To: <tomaz@tomaz.me>
+Date: Thu, 15 Aug 2013 23:19:38 +0000
+Message-ID: <94377ea46d8b176a11a325d037a513065c9.20130815231931@mail126.us2.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID117360ac5b7a513065c9**
+X-Campaign: mailchimp94377ea46d8b176a11a325d03.117360ac5b
+X-campaignid: mailchimp94377ea46d8b176a11a325d03.117360ac5b
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=94377ea46d8b176a11a325d03&id=117360ac5b&e=7a513065c9
+X-MC-User: 94377ea46d8b176a11a325d03
+x-accounttype: ff
+List-Unsubscribe: <mailto:unsubscribe-94377ea46d8b176a11a325d03-117360ac5b-7a513065c9@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://writethedocs.us6.list-manage.com/unsubscribe?u=94377ea46d8b176a11a325d03&id=dcf0ed349b&e=7a513065c9&c=117360ac5b>
+Sender: "Write The Docs" <eric.holscher+writethedocs=gmail.com@mail126.us2.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_2105423768"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_2105423768
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Here are some ways to stay in touch with the Write the Docs community.
+------------------------------------------------------------
+http://us6.campaign-archive1.com/?u=3D94377ea46d8b176a11a325d03&id=3D11736=
+0ac5b&e=3D7a513065c9
+http://writethedocs.us6.list-manage.com/track/click?u=3D94377ea46d8b176a11=
+a325d03&id=3D1f1b7562af&e=3D7a513065c9
+
+It=E2=80=99s been a few months since the conference=2C and we hope everyon=
+e is enjoying their summer. We hope that you=E2=80=99ve kept some of the c=
+onnections alive that you made at Write the Docs. In that spirit=2C we hav=
+e a couple of announcements today that will help you stay connected.
+
+
+** Talk videos are posted
+------------------------------------------------------------
+
+The talk videos (http://writethedocs.us6.list-manage.com/track/click?u=3D9=
+4377ea46d8b176a11a325d03&id=3D2143d9ad81&e=3D7a513065c9)  are now li=
+ve. We hope that you share them with friends and collegues that couldn=E2=
+=80=99t make the conference.
+
+
+** A Bay Area Meetup Group
+------------------------------------------------------------
+
+We have our first meetup group (http://writethedocs.us6.list-manage1.com/t=
+rack/click?u=3D94377ea46d8b176a11a325d03&id=3D4bc78b5bbc&e=3D=
+7a513065c9)  setting up! Ruth Buchanan (http://writethedocs.us6.list-manage.com/t=
+rack/click?u=3D94377ea46d8b176a11a325d03&id=3D2797cf8b86&e=3D=
+7a513065c9)  has organized a great first meeting=2C and we hope that anyone in th=
+e area will come out and join. They are looking for speakers for the first=
+ and following meetups=2C so check it out (http://writethedocs.us6.list-ma=
+nage1.com/track/click?u=3D94377ea46d8b176a11a325d03&id=3D3549f5813f&e=3D=
+7a513065c9) .
+
+Details:
+* Topic - Teaching & Learning: Framing Documentation as a Teaching Tool
+* Date - Thursday=2C September 12th from 6-8 PM
+* Venue - Hosted and Sponsored by Atlassian (http://writethedocs.us6.list-=
+manage.com/track/click?u=3D94377ea46d8b176a11a325d03&id=3Deb7b98508b&e=3D=
+7a513065c9)
+* Awesome - Free beer=2C wine=2C and pizza
+
+If you are interested in setting up a meetup group in your own area=2C ple=
+ase email us (mailto:eric%40ericholscher.com?subject=3DMeetup%20group)  if=
+ we can help at all.
+
+
+** A mailing list
+------------------------------------------------------------
+
+Write the Docs is a larger idea than the conference. A big part of that is=
+ having a community around documentation. We have launched a mailing list=
+ (http://writethedocs.us6.list-manage.com/track/click?u=3D94377ea46d8b176a=
+11a325d03&id=3Dad50d2e32a&e=3D7a513065c9)  that will allow people to=
+ chat about documentation related things from across the globe. If you are=
+ interested in chatting about docs or have questions you want to be answer=
+ed=2C go ahead and sign up (http://writethedocs.us6.list-manage1.com/track=
+/click?u=3D94377ea46d8b176a11a325d03&id=3D2bed1e5b76&e=3D7a513065c9)=
+ .
+
+
+** 2014 Details
+------------------------------------------------------------
+
+We are excited about having the conference again next year. We will be ann=
+ouncing the dates of the conference=2C and putting up a website in the nex=
+t couple months.
+Cheers=2C
+Write the Docs Team
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2013 Write The Docs=2C All rights reserved.
+ Thanks for subscribing to the Write The Docs mailing list!
+Our mailing address is:
+Write The Docs
+6044 NE Glisan St=2C Portland=2C OR
+Portland=2C OR 97213
+
+ Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D94377ea46d8b176a11a=
+325d03&afl=3D1
+** follow on Twitter (https://www.twitter.com/writethedocs/
+
+)
+** forward to a friend (http://us6.forward-to-friend1.com/forward?u=3D9437=
+7ea46d8b176a11a325d03&id=3D117360ac5b&e=3D7a513065c9)
+** unsubscribe from this list (http://writethedocs.us6.list-manage.com/uns=
+ubscribe?u=3D94377ea46d8b176a11a325d03&id=3Ddcf0ed349b&e=3D7a513065c9&c=3D11=
+7360ac5b)
+** update subscription preferences (http://writethedocs.us6.list-manage.co=
+m/profile?u=3D94377ea46d8b176a11a325d03&id=3Ddcf0ed349b&e=3D7a513065c9)
+--_----------=_MCPart_2105423768
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+
+        <!-- Facebook sharing information tags -->
+        <meta property=3D"og:title" content=3D"Announcing Conference Video=
+s=2C A Meetup Group=2C and A Mailing List">
+
+        <title>Announcing Conference Videos=2C A Meetup Group=2C and A Mai=
+ling List</title>
+=09=09
+=09<style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table td{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09#backgroundTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09body=2C#backgroundTable{
+=09=09=09background-color:#FAFAFA;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:1px solid #DDDDDD;
+=09=09}
+=09=09h1=2C.h1{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2=2C.h2{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:30px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3=2C.h3{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:26px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4=2C.h4{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:22px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FAFAFA;
+=09=09}
+=09=09.preheaderContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:10px;
+=09=09=09line-height:100%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent div a:link=2C.preheaderContent div a:visited=2C.pr=
+eheaderContent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#202020;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding:0;
+=09=09=09text-align:center;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link=2C.headerContent a:visited=2C.headerContent a=
+ .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#templateContainer=2C.bodyContent{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.bodyContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent div a:link=2C.bodyContent div a:visited=2C.bodyContent=
+ div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09}
+=09=09.footerContent div{
+=09=09=09color:#707070;
+=09=09=09font-family:Arial;
+=09=09=09font-size:12px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContent div a:link=2C.footerContent div a:visited=2C.footerCo=
+ntent div a .yshortcuts {
+=09=09=09color:#336699;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09}
+=09=09#social{
+=09=09=09background-color:#FAFAFA;
+=09=09=09border:0;
+=09=09}
+=09=09#social div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#utility{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border:0;
+=09=09}
+=09=09#utility div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:190px;
+=09=09}
+=09=09.headerContent a{
+=09=09=09color:#000000;
+=09=09=09text-decoration:none;
+=09=09}
+</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"-webkit-text-size-adjust: none;margin: 0;padd=
+ing: 0;background-color: #FAFAFA;width: 100% !important;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"backgroundTable" style=3D"margin: 0;padding=
+: 0;background-color: #FAFAFA;height: 100% !important;width: 100% !importa=
+nt;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top" style=3D"border-col=
+lapse: collapse;">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"600" id=3D"templatePreheader" style=3D"background-color: #=
+FAFAFA;">
+                            <tr>
+                                <td valign=3D"top" class=3D"preheaderConte=
+nt" style=3D"border-collapse: collapse;">
+
+                                =09<!-- // Begin Module: Standard Preheade=
+r \ -->
+                                    <table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"100%">
+                                    =09<tr>
+                                        =09<td valign=3D"top" style=3D"bor=
+der-collapse: collapse;">
+                                            =09<div style=3D"color: #50505=
+0;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">=
+Here are some ways to stay in touch with the Write the Docs community.</di=
+v>
+                                            </td>
+                                            <!--
+ -->
+=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"190" style=3D=
+"border-collapse: collapse;">
+                                            =09<div style=3D"color: #50505=
+0;font-family: Arial;font-size: 10px;line-height: 100%;text-align: left;">
+                                                =09Is this email not displ=
+aying correctly?<br><a href=3D"http://us6.campaign-archive1.com/?u=3D94377=
+ea46d8b176a11a325d03&id=3D117360ac5b&e=3D7a513065c9" target=3D"_blank" style=
+=3D"color: #336699;font-weight: normal;text-decoration: underline;">View i=
+t in your browser</a>.
+                                                </div>
+                                            </td>
+=09=09=09=09=09=09=09=09=09=09=09<!--
+ -->
+                                        </tr>
+                                    </table>
+                                =09<!-- // End Module: Standard Preheader=
+ \ -->
+
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    =09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" style=3D"border: 1px solid #=
+DDDDDD;background-color: #FFFFFF;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Header \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"background-c=
+olor: #FFFFFF;border-bottom: 0;">
+                                        <tr>
+                                            <td class=3D"headerContent" st=
+yle=3D"border-collapse: collapse;color: #202020;font-family: Arial;font-si=
+ze: 34px;font-weight: bold;line-height: 100%;padding: 0;text-align: center=
+;vertical-align: middle;">
+
+                                            =09<!-- // Begin Module: Stand=
+ard Header Image \\ -->
+                                            =09<a href=3D"http://writethed=
+ocs.us6.list-manage.com/track/click?u=3D94377ea46d8b176a11a325d03&id=3D47f=
+127d2a7&e=3D7a513065c9" target=3D"_blank" style=3D"color: #336699;text-de=
+coration: underline;font-weight: normal;"><img src=3D"http://gallery.mailc=
+himp.com/94377ea46d8b176a11a325d03/images/logo_banner_transparent.png" alt=
+=3D"" border=3D"0" style=3D"border: px none;border-color: ;border-style: n=
+one;border-width: px;height: 98px;width: 600px;margin: 0;padding: 0;max-wi=
+dth: 600px;line-height: 100%;outline: none;text-decoration: none;" width=
+=3D"600" height=3D"98" id=3D"headerImage campaign-icon"></a>
+                                            =09<!-- // End Module: Standar=
+d Header Image \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Body \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600" id=3D"templateBody">
+                                    =09<tr>
+                                            <td valign=3D"top" class=3D"bo=
+dyContent" style=3D"border-collapse: collapse;background-color: #FFFFFF;">
+
+                                                <!-- // Begin Module: Stan=
+dard Content \\ -->
+                                                <table border=3D"0" cellpa=
+dding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #505050;font-family: Arial;font-size: 14px;line-height: 150%;text-a=
+lign: left;"><div class=3D"section" id=3D"announcing-conference-videos-a-n=
+ew-user-group-and-a-mailing-list" style=3D"color: rgb(62=2C 67=2C 73); fon=
+t-family: Poly=2C 'goudy old style'=2C 'minion pro'=2C 'bell mt'=2C Georgi=
+a=2C 'Hiragino Mincho Pro'=2C Helvetica=2C serif; font-size: 16.3636360168=
+45703px; font-style: normal; font-variant: normal; font-weight: normal; le=
+tter-spacing: normal; line-height: normal; orphans: auto; text-align: star=
+t; text-indent: 0px; text-transform: none; white-space: normal; widows: au=
+to; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+=09<p style=3D"line-height: 1.4em;">
+=09=09It&rsquo;s been a few months since the conference=2C and we hope eve=
+ryone is enjoying their summer. We hope that you&rsquo;ve kept some of the=
+ connections alive that you made at Write the Docs. In that spirit=2C we h=
+ave a couple of announcements today that will help you stay connected.</p>
+=09<div class=3D"section" id=3D"talk-videos-are-posted" style=3D"color: #5=
+05050;font-family: Arial;font-size: 14px;line-height: 150%;text-align: lef=
+t;">
+=09=09<h2 style=3D"font-family: 'Hagin Caps Medium'=2C Garamond=2C Georgia=
+=2C serif;font-weight: normal;margin: 30px 0px 10px;padding: 0px;font-size=
+: 29.09090805053711px;color: #202020;display: block;line-height: 100%;marg=
+in-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: l=
+eft;">
+=09=09=09Talk videos are posted</h2>
+=09=09<p style=3D"line-height: 1.4em;">
+=09=09=09The<span class=3D"Apple-converted-space">&nbsp;</span><a class=3D=
+"reference external" href=3D"http://writethedocs.us6.list-manage.com/track=
+/click?u=3D94377ea46d8b176a11a325d03&id=3Dbdf9db2a9d&e=3D7a513065c9" styl=
+e=3D"color: rgb(0=2C 75=2C 107);text-decoration: none;border-bottom-width:=
+ 1px;border-bottom-style: dotted;border-bottom-color: rgb(0=2C 75=2C 107);=
+font-weight: normal;">talk videos</a><span class=3D"Apple-converted-space"=
+>&nbsp;</span>are now live. We hope that you share them with friends and c=
+ollegues that couldn&rsquo;t make the conference.</p>
+=09</div>
+=09<div class=3D"section" id=3D"a-bay-area-meetup-group" style=3D"color: #=
+505050;font-family: Arial;font-size: 14px;line-height: 150%;text-align: le=
+ft;">
+=09=09<h2 style=3D"font-family: 'Hagin Caps Medium'=2C Garamond=2C Georgia=
+=2C serif;font-weight: normal;margin: 30px 0px 10px;padding: 0px;font-size=
+: 29.09090805053711px;color: #202020;display: block;line-height: 100%;marg=
+in-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: l=
+eft;">
+=09=09=09A Bay Area Meetup Group</h2>
+=09=09<p style=3D"line-height: 1.4em;">
+=09=09=09We have our first<span class=3D"Apple-converted-space">&nbsp;</sp=
+an><a class=3D"reference external" href=3D"http://writethedocs.us6.list-ma=
+nage1.com/track/click?u=3D94377ea46d8b176a11a325d03&id=3D28cb9ccdcd&e=3D=
+7a513065c9" style=3D"color: rgb(0=2C 75=2C 107);text-decoration: none;borde=
+r-bottom-width: 1px;border-bottom-style: dotted;border-bottom-color: rgb(0=
+=2C 75=2C 107);font-weight: normal;">meetup group</a><span class=3D"Apple-=
+converted-space">&nbsp;</span>setting up!<span class=3D"Apple-converted-sp=
+ace">&nbsp;</span><a class=3D"reference external" href=3D"http://writethed=
+ocs.us6.list-manage2.com/track/click?u=3D94377ea46d8b176a11a325d03&id=3D47=
+f4042f82&e=3D7a513065c9" style=3D"color: rgb(0=2C 75=2C 107);text-decorat=
+ion: none;border-bottom-width: 1px;border-bottom-style: dotted;border-bott=
+om-color: rgb(0=2C 75=2C 107);font-weight: normal;">Ruth Buchanan</a><span=
+ class=3D"Apple-converted-space">&nbsp;</span>has organized a great first=
+ meeting=2C and we hope that anyone in the area will come out and join. Th=
+ey are looking for speakers for the first and following meetups=2C so<span=
+ class=3D"Apple-converted-space">&nbsp;</span><a class=3D"reference extern=
+al" href=3D"http://writethedocs.us6.list-manage.com/track/click?u=3D94377e=
+a46d8b176a11a325d03&id=3D56c8c34005&e=3D7a513065c9" style=3D"color: rgb(0=
+=2C 75=2C 107);text-decoration: none;border-bottom-width: 1px;border-botto=
+m-style: dotted;border-bottom-color: rgb(0=2C 75=2C 107);font-weight: norm=
+al;">check it out</a>.</p>
+=09=09<p style=3D"line-height: 1.4em;">
+=09=09=09Details:</p>
+=09=09<ul class=3D"simple" style=3D"margin: 10px 0px 10px 20px; padding: 0=
+px;">
+=09=09=09<li style=3D"line-height: 1.4em;">
+=09=09=09=09Topic - Teaching &amp; Learning: Framing Documentation as a Te=
+aching Tool</li>
+=09=09=09<li style=3D"line-height: 1.4em;">
+=09=09=09=09Date - Thursday=2C September 12th from 6-8 PM</li>
+=09=09=09<li style=3D"line-height: 1.4em;">
+=09=09=09=09Venue - Hosted and Sponsored by<span class=3D"Apple-converted-=
+space">&nbsp;</span><a class=3D"reference external" href=3D"http://writeth=
+edocs.us6.list-manage.com/track/click?u=3D94377ea46d8b176a11a325d03&id=3D7=
+65489b749&e=3D7a513065c9" style=3D"color: rgb(0=2C 75=2C 107);text-decora=
+tion: none;border-bottom-width: 1px;border-bottom-style: dotted;border-bot=
+tom-color: rgb(0=2C 75=2C 107);font-weight: normal;">Atlassian</a></li>
+=09=09=09<li style=3D"line-height: 1.4em;">
+=09=09=09=09Awesome - Free beer=2C wine=2C and pizza</li>
+=09=09</ul>
+=09=09<p style=3D"line-height: 1.4em;">
+=09=09=09If you are interested in setting up a meetup group in your own ar=
+ea=2C please<span class=3D"Apple-converted-space">&nbsp;</span><a class=3D=
+"reference external" href=3D"mailto:eric%40ericholscher.com?subject=3DMeet=
+up%20group" style=3D"color: rgb(0=2C 75=2C 107);text-decoration: none;bord=
+er-bottom-width: 1px;border-bottom-style: dotted;border-bottom-color: rgb(=
+0=2C 75=2C 107);font-weight: normal;">email us</a><span class=3D"Apple-con=
+verted-space">&nbsp;</span>if we can help at all.</p>
+=09</div>
+=09<div class=3D"section" id=3D"a-mailing-list" style=3D"color: #505050;fo=
+nt-family: Arial;font-size: 14px;line-height: 150%;text-align: left;">
+=09=09<h2 style=3D"font-family: 'Hagin Caps Medium'=2C Garamond=2C Georgia=
+=2C serif;font-weight: normal;margin: 30px 0px 10px;padding: 0px;font-size=
+: 29.09090805053711px;color: #202020;display: block;line-height: 100%;marg=
+in-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: l=
+eft;">
+=09=09=09A mailing list</h2>
+=09=09<p style=3D"line-height: 1.4em;">
+=09=09=09Write the Docs is a larger idea than the conference. A big part o=
+f that is having a community around documentation. We have launched a<span=
+ class=3D"Apple-converted-space">&nbsp;</span><a class=3D"reference extern=
+al" href=3D"http://writethedocs.us6.list-manage1.com/track/click?u=3D94377=
+ea46d8b176a11a325d03&id=3D4c5f55ffb3&e=3D7a513065c9" style=3D"color: rgb(=
+0=2C 75=2C 107);text-decoration: none;border-bottom-width: 1px;border-bott=
+om-style: dotted;border-bottom-color: rgb(0=2C 75=2C 107);font-weight: nor=
+mal;">mailing list</a><span class=3D"Apple-converted-space">&nbsp;</span>t=
+hat will allow people to chat about documentation related things from acro=
+ss the globe. If you are interested in chatting about docs or have questio=
+ns you want to be answered=2C go ahead and<span class=3D"Apple-converted-s=
+pace">&nbsp;</span><a class=3D"reference external" href=3D"http://writethe=
+docs.us6.list-manage.com/track/click?u=3D94377ea46d8b176a11a325d03&id=3Dbb=
+1805b54d&e=3D7a513065c9" style=3D"color: rgb(0=2C 75=2C 107);text-decorat=
+ion: none;border-bottom-width: 1px;border-bottom-style: dotted;border-bott=
+om-color: rgb(0=2C 75=2C 107);font-weight: normal;">sign up</a>.</p>
+=09</div>
+=09<div class=3D"section" id=3D"details" style=3D"color: #505050;font-fami=
+ly: Arial;font-size: 14px;line-height: 150%;text-align: left;">
+=09=09<h2 style=3D"font-family: 'Hagin Caps Medium'=2C Garamond=2C Georgia=
+=2C serif;font-weight: normal;margin: 30px 0px 10px;padding: 0px;font-size=
+: 29.09090805053711px;color: #202020;display: block;line-height: 100%;marg=
+in-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: l=
+eft;">
+=09=09=092014 Details</h2>
+=09=09<p style=3D"line-height: 1.4em;">
+=09=09=09We are excited about having the conference again next year. We wi=
+ll be announcing the dates of the conference=2C and putting up a website i=
+n the next couple months.</p>
+=09=09<div class=3D"line-block" style=3D"display: block;margin-top: 1em;ma=
+rgin-bottom: 1em;color: #505050;font-family: Arial;font-size: 14px;line-he=
+ight: 150%;text-align: left;">
+=09=09=09<div class=3D"line" style=3D"color: #505050;font-family: Arial;fo=
+nt-size: 14px;line-height: 150%;text-align: left;">
+=09=09=09=09Cheers=2C</div>
+=09=09=09<div class=3D"line" style=3D"color: #505050;font-family: Arial;fo=
+nt-size: 14px;line-height: 150%;text-align: left;">
+=09=09=09=09Write the Docs Team</div>
+=09=09</div>
+=09</div>
+</div>
+<br class=3D"Apple-interchange-newline">
+</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standa=
+rd Content \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;">
+                                    <!-- // Begin Template Footer \\ -->
+                                =09<table border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"background=
+-color: #FFFFFF;border-top: 0;">
+                                    =09<tr>
+                                        =09<td valign=3D"top" class=3D"foo=
+terContent" style=3D"border-collapse: collapse;">
+
+                                                <!-- // Begin Module: Stan=
+dard Footer \\ -->
+                                                <table border=3D"0" cellpa=
+dding=3D"10" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td colspan=3D"2"=
+ valign=3D"middle" id=3D"social" style=3D"border-collapse: collapse;backgr=
+ound-color: #FAFAFA;border: 0;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: center;">&nbsp;<a href=3D"https://www.twitter.com/writethedocs/" sty=
+le=3D"color: #336699;font-weight: normal;text-decoration: underline;">foll=
+ow on Twitter</a>&nbsp;| <a href=3D"http://us6.forward-to-friend1.com/forw=
+ard?u=3D94377ea46d8b176a11a325d03&id=3D117360ac5b&e=3D7a513065c9" style=3D"c=
+olor: #336699;font-weight: normal;text-decoration: underline;">forward to=
+ a friend</a>&nbsp; </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ width=3D"350" style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: left;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<em>Copyright &copy; 2013=
+ Write The Docs=2C All rights reserved.</em>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+ Thanks for subscribing to the Write The Docs mailing list!
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>Our mailing addres=
+s is:</strong>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"vcard"><span=
+ class=3D"org fn">Write The Docs</span><div class=3D"adr"><div class=3D"st=
+reet-address">6044 NE Glisan St=2C Portland=2C OR</div><span class=3D"loca=
+lity">Portland</span>=2C <span class=3D"region">OR</span>  <span class=3D"=
+postal-code">97213</span></div><br><a href=3D"http://writethedocs.us6.list=
+-manage1.com/vcard?u=3D94377ea46d8b176a11a325d03&id=3Ddcf0ed349b" class=3D=
+"hcard-download">Add us to your address book</a></div>
+                                                            </div>
+                                                        </td>
+                                                        <td valign=3D"top"=
+ width=3D"190" id=3D"monkeyRewards" style=3D"border-collapse: collapse;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: left;">
+ <a href=3D"http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium=
+_newsletter&utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D94377ea=
+46d8b176a11a325d03&afl=3D1"><img src=3D"http://cdn-images.mailchimp.com/mo=
+nkey_rewards/MC_MonkeyReward_15.png" border=3D"0" alt=3D"Email Marketing P=
+owered by MailChimp" title=3D"MailChimp Email Marketing" width=3D"139" hei=
+ght=3D"54"></a>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan=3D"2"=
+ valign=3D"middle" id=3D"utility" style=3D"border-collapse: collapse;backg=
+round-color: #FFFFFF;border: 0;">
+                                                            <div style=3D"=
+color: #707070;font-family: Arial;font-size: 12px;line-height: 125%;text-a=
+lign: center;">
+                                                                &nbsp;<a h=
+ref=3D"http://writethedocs.us6.list-manage.com/unsubscribe?u=3D94377ea46d8=
+b176a11a325d03&id=3Ddcf0ed349b&e=3D7a513065c9&c=3D117360ac5b" style=3D"color=
+: #336699;font-weight: normal;text-decoration: underline;">unsubscribe fro=
+m this list</a> | <a href=3D"http://writethedocs.us6.list-manage.com/profi=
+le?u=3D94377ea46d8b176a11a325d03&id=3Ddcf0ed349b&e=3D7a513065c9" style=3D"co=
+lor: #336699;font-weight: normal;text-decoration: underline;">update subsc=
+ription preferences</a>&nbsp;
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standa=
+rd Footer \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://writethedocs.us6.list-manage.com/track/open.php?u=
+=3D94377ea46d8b176a11a325d03&id=3D117360ac5b&e=3D7a513065c9" height=3D"1"=
+ width=3D"1"></body>
+</html>
+--_----------=_MCPart_2105423768--

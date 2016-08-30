@@ -1,0 +1,777 @@
+Delivered-To: tomaz@tomaz.me
+Received: by 10.50.40.162 with SMTP id y2csp21291igk;
+        Thu, 15 Aug 2013 08:31:19 -0700 (PDT)
+X-Received: by 10.60.142.231 with SMTP id rz7mr14885790oeb.44.1376580679518;
+        Thu, 15 Aug 2013 08:31:19 -0700 (PDT)
+Return-Path: <bounce-mc.us2_2936290.1331501-tomaz=tomaz.me@mail182.atl21.rsgsv.net>
+Received: from mail182.atl21.rsgsv.net (mail182.atl21.rsgsv.net. [205.201.133.182])
+        by mx.google.com with ESMTP id cx4si13502790oeb.97.2013.08.15.08.31.18
+        for <tomaz@tomaz.me>;
+        Thu, 15 Aug 2013 08:31:19 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us2_2936290.1331501-tomaz=tomaz.me@mail182.atl21.rsgsv.net designates 205.201.133.182 as permitted sender) client-ip=205.201.133.182;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us2_2936290.1331501-tomaz=tomaz.me@mail182.atl21.rsgsv.net designates 205.201.133.182 as permitted sender) smtp.mail=bounce-mc.us2_2936290.1331501-tomaz=tomaz.me@mail182.atl21.rsgsv.net;
+       dkim=pass header.i=rahul=3Dnosqlweekly.com@mail182.atl21.rsgsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail182.atl21.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=rahul=3Dnosqlweekly.com@mail182.atl21.rsgsv.net;
+ bh=oBkMbfMMJV2A1Bp8RypGf3ivmGg=;
+ b=RQxODfmKu/XgrErqCveKvHP8QKZ7YrgP2gp3rcA/LsfoGp3KowElcRzgaGWIBJ3RWmK6ECqhQZP1
+   8zQ1op/4Jl4TOevU+TMat8CpK/bIS8rRCKUNNdkszblgcfEh3Kl3F7tOvJ58c3VtIX0y/8CUmgZR
+   ZMdJBOibID8/M/WxeS4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail182.atl21.rsgsv.net;
+ b=ICM7tkOReLCUmurQjUWAWVYDwBgRSVcylh60GXbLsu/ky4urF0IXPfr3k3b/aRMsi98QcZblXYmM
+   bWEaD/daScmBV3OP+wPE9wUHySzlFq0ofuM9FVfn7rMWepfTbmHTtd/BcJIYLj/dxYmLD6zt3g5A
+   FWC/kGy8agqnGX2rgAA=;
+Received: from (127.0.0.1) by mail182.atl21.rsgsv.net (PowerMTA(TM) v3.5r16) id h1jq4e1lgi41 for <tomaz@tomaz.me>; Thu, 15 Aug 2013 15:31:18 +0000 (envelope-from <bounce-mc.us2_2936290.1331501-tomaz=tomaz.me@mail182.atl21.rsgsv.net>)
+Subject: =?utf-8?Q?NoSQL=20Weekly=20=2D=20Issue=20142?=
+From: =?utf-8?Q?NoSQL=20Weekly?= <rahul@nosqlweekly.com>
+Reply-To: =?utf-8?Q?NoSQL=20Weekly?= <rahul@nosqlweekly.com>
+To: <tomaz@tomaz.me>
+Date: Thu, 15 Aug 2013 15:31:18 +0000
+Message-ID: <72f68dcee17c92724bc7822fbbed48756ac.20130815153109@mail182.atl21.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CIDcbbcb57d85bed48756ac**
+X-Campaign: mailchimp72f68dcee17c92724bc7822fb.cbbcb57d85
+X-campaignid: mailchimp72f68dcee17c92724bc7822fb.cbbcb57d85
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=72f68dcee17c92724bc7822fb&id=cbbcb57d85&e=bed48756ac
+X-MC-User: 72f68dcee17c92724bc7822fb
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-72f68dcee17c92724bc7822fb-cbbcb57d85-bed48756ac@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://NoSQLWeekly.us2.list-manage1.com/unsubscribe?u=72f68dcee17c92724bc7822fb&id=2f0470315b&e=bed48756ac&c=cbbcb57d85>
+Sender: "NoSQL Weekly" <rahul=nosqlweekly.com@mail182.atl21.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_121104317"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_121104317
+Content-Type: text/plain; charset="us-ascii";
+
+Email not displaying correctly? View it in your browser. (http://us2.campaign-archive2.com/?u=72f68dcee17c92724bc7822fb&id=cbbcb57d85&e=bed48756ac)
+Welcome to issue 142 of NoSQL Weekly. We are giving away 2 tickets to NoSQL Search Roadshows Zurich. You can enter in this giveaway here (http://www.nosqlweekly.com/nosql-zurich-2013/?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301) . I would appreciate if you can help spread the word about it by sharing it on Twitter, Facebook etc.
+
+Amazon has awesome jobs open in their DynamoDB team. Be sure to check them out in the jobs section. Also if you would like to advertise any NoSQL/Big Data jobs, please get in touch with me.
+
+From Our Sponsor
+
+https://mms.10gen.com/?pk_campaign=nosql-weekly&utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301 See inside your MongoDB deployment with free, cloud-based monitoring provided by 10gen. With MongoDB Management Service, you'll gain valuable insights into your production system through customizable, real-time dashboards tracking over 100 metrics. Create your free account now at mms.10gen.com (https://mms.10gen.com/?pk_campaign=nosql-weekly&utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301) .
+
+Articles, Tutorials and Talks
+
+DDD with Ruby On Rails and MongoDB (http://vimeo.com/70015978?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+This presentation is an attempt to bridge the gap via an exploration of what Domain-Driven Design (DDD) might look like through Ruby/NoSQL-coloured glasses. The basis for this will be a port of the DDD sample app to Ruby on Rails using MongoDB for persistence.
+
+Data Types != Schema (http://www.n10k.com/blog/data-types-not-equal-schema/?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+It's an exciting time to be building large, data-driven applications. We enjoy a wealth of new tools, not just HBase, to make that easier than ever before. Still, those same tools that make things possible are still in infant stages of usability. Hopefully these efforts will move the conversation forward. Poke holes in the data type extension API and provide counter examples that you can't implement due to lack of expression. Take this opportunity to customize your tools to better fit your own hands.
+
+Amazon DynamoDB on Mobile - Part 1: Loading Data (http://mobile.awsblog.com/post/Tx1U4RV2QI1MVWS/Amazon-DynamoDB-on-Mobile-Part-1-Loading-Data?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+This post discusses a number of ways in which we could load data from an Amazon DynamoDB table, either using the GetItem or Query API actions.
+* Amazon DynamoDB on Mobile - Part 2: Advanced Data Loading Options (http://mobile.awsblog.com/post/Tx306H0Z3TZ3NDW/Amazon-DynamoDB-on-Mobile-Part-2-Advanced-Data-Loading-Options?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301) - This post discusses a number of ways we can modify these requests in the AWS Mobile SDKs to either increase performance or gain further insight into how our requests effect our usage of DynamoDB.
+* Amazon DynamoDB on Mobile - Part 3: Writing Data (http://mobile.awsblog.com/post/Tx1GPB1A28MHQO6/Amazon-DynamoDB-on-Mobile-Part-3-Writing-Data?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301) -The third part in this series discusses our options for writing data to DynamoDB.
+
+MAD Skills: New Analysis Practices for Big Data (http://db.cs.berkeley.edu/papers/vldb09-madskills.pdf?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+This paper highlights the emerging practice of Magnetic, Agile, Deep (MAD) data analysis as a radical departure from traditional Enterprise Data Warehouses and Business Intelligence. We present our design philosophy, techniques and experience providing MAD analytics for one of the world's largest advertising networks at Fox Audience Network, using the Greenplum parallel database system. We describe database design methodologies that support the agile working style of analysts in these settings.
+
+Vehicle Trip Discovery with GIS Tools for Hadoop (http://blogs.esri.com/esri/arcgis/2013/08/09/vehicle-trip-discovery-with-gis-tools-for-hadoop/?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+An interesting task in highway management is to study potential impact of driver carpooling, based on an analysis of automatically collected automobile GPS position data. To identify potential enhancements to carpool participation, we set out to study places that have the highest numbers of trips with similar origin and destination locations. The source data for this experiment consists of nearly 40 million vehicle position records assembled from a single day of GPS-collected vehicle positions. The position data consists of longitude and latitude along with date, time, and speed.
+
+High Availability of Hue (http://gethue.tumblr.com/post/57817118455/hadoop-tutorial-high-availability-of-hue?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+Very few projects within the Hadoop umbrella have as much end user visibility as Hue. Thus, it is useful to add a degree of fault tolerance to deployments. This post describes how to achieve a higher level of availability (HA) by placing several Hue instances behind a load balancer.
+
+How to create example tables in HBase (http://vimeo.com/72200782?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+Hue 2.5 (gethue.com) comes with another new app for making Apache Hadoop easier to use: HBase Browser. Apache HBase (hbase.apache.org) is the main big data store for Hadoop. This post is the first episode of a series describing the new user experience brought by the app. We will start by describing how to create some sample tables with various HBase schemas.
+
+Exploring LinkedIn in Neo4j (http://blog.neo4j.org/2013/08/exploring-linkedin-in-neo4j.html?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+
+Set Up a Hadoop Compute Cluster Using Raspberry Pis (http://blog.ittoby.com/2013/08/starting-small-set-up-hadoop-compute.html?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+
+NoSQL Jobs of the Week
+
+DynamoDB is a fast, fully managed NoSQL database service that makes it simple and cost-effective to store and retrieve any amount of data, and serve any level of request traffic. Sound interesting? We are looking for top developers to join our team and help build the next innovative feature for DynamoDB, one of the fastest-growing AWS services."
+
+Software Development Engineer-AWS-DynamoDB (http://www.amazon.com/gp/jobs/212013?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+
+Software Development Manager-AWS-DynamoDB (http://www.amazon.com/gp/jobs/228008?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+
+Software Development Engineer-AWS-DynamoDB - TEST/QA (http://www.amazon.com/gp/jobs/212037?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+
+Interesting Projects, Tools and Libraries
+
+Kanso (http://kan.so/?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+Kanso can be described as the NPM for CouchApps, with tools for installing and publishing shared packages while managing dependencies. The Kanso community provides reusable build-tools, modules, templates and more via the online repository. Kanso's built around a powerful packaging system, meaning almost all the functionality can be customized by you.
+
+rediscala (https://github.com/etaty/rediscala?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+A Redis client for Scala (2.10+) and (AKKA 2.2+) with non-blocking and asynchronous I/O operations.
+
+Watchtower (https://github.com/mortardata/watchtower?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+Mortar Watchtower is a plugin for the Mortar Gem. It provides instant feedback about what is happening in your Pig script. On save, Mortar Watchtower will illustrate your data and feed the results to a local webpage.
+
+Centrifuge (https://github.com/FZambia/centrifuge?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+Simple platform for real-time message broadcasting in web applications. It is It is built using Tornado, ZeroMQ and Redis.
+
+hindex - Secondary Index for HBase (https://github.com/Huawei-Hadoop/hindex?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+HBase Secondary Index is 100% server side implementation with co processors which persists index data in a separate table. Indexing is region wise and custom load balancer co-locates the index table regions with actual table regions.
+
+New Releases
+
+Riak CS 1.4 (http://basho.com/basho-unveils-riak-cs-1-4-driving-distributed-cloud-storage-innovation-for-public-and-private-clouds/?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+Basho has announced the availability of Riak CS 1.4 and Riak CS 1.4 Enterprise. Riak CS 1.4 introduces formal integration with OpenStack, provides enhanced performance and manageability, includes community requests, and improves performance at scale. Riak CS 1.4 Enterprise significantly boosts the performance of multi-data center replication by allowing for concurrent channels, so the full capacity of the network and cluster size can scale the performance to available resources.
+
+Neo4j 2.0.0 Milestone 4 (http://blog.neo4j.org/2013/08/summer-release-neo4j-20-milestone-4.html?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+In working towards a major 2.0 release with some outstanding new functionality, this milestone contains many beneficial and necessary changes, some of which will require changes in the way Neo4j is used.
+
+ArangoDB 1.4 Alpha 1 (https://www.arangodb.org/repositories/1.4.0-alpha1/index.html?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+
+Upcoming Events and Webinars
+
+Webinar: What's New in Riak CS 1.4 (http://info.basho.com/RiakCS1.4_Aug23.html?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+This webinar will cover
+* Riak CS architecture, operations, and what's new in the latest version of Riak CS
+* APIs and interfaces, plus the Riak CS GUI
+* Building private and public clouds with Riak CS
+* Use cases and user stories
+
+Webinar: Right and Wrong Ways to Implement MongoDB (http://www.10gen.com/events/webinar/ways-to-implement-mongodb-aug2013?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+MongoDB offers users a great deal of flexibility vis-a-vis implementation decisions, and this flexibility brings a lot of power. But with great power comes great responsibility. In this talk we'll cover some better and worse implementation options, including deployment topologies, capacity provisioning, data loading, and more!
+
+Webinar: Node.js & NoSQL (https://www1.gotomeeting.com/register/450713425?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+Join us to learn how Nodejitsu and Cloudant deliver the scalability, flexibility of deployment, and performance that enterprises are looking for in their web and mobile applications. You'll hear from two experts in building enterprise solutions with distributed systems
+
+GOTO Night on NoSQL - part I (https://secure.trifork.com/nosql-zurich-2013/freeevent/index.jsp?eventOID=5719&utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+Stefan Armbruster, Field Engineer for EMEA at Neo Technology presents "Data Modelling with Graphs" and Joel Jacobson and Matthew Revell from Basho present "Distributed Search with Yokozuna"
+
+Using Go and MongoDB for Backups - New York, NY (http://www.meetup.com/New-York-MongoDB-User-Group/events/129921242/?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=cbbcb57d85-NoSQL_Weekly_Issue_142_August_15_2013&utm_medium=email&utm_term=0_2f0470315b-cbbcb57d85-328625301)
+In this talk, we'll hear from Sam Helman, Software Engineer at 10gen, on how 10gen is integrating Go into our new and existing cloud tools. This was an opportunity to experiment with new technologies and create a better product for end users.
+
+Share NoSQL Weekly  <a rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85&t=NoSQL%20Weekly%20-%20Issue%20142" title="Facebook"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/facebook.png" title="Facebook" alt="Facebook" class="mc-share"></a> <a rel="nofollow" target="_blank" href="http://twitter.com/?status=NoSQL%20Weekly%20-%20Issue%20142%20-%20http%3A%2F%2Feepurl.com%2FDKCCT" title="Twitter"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/twitter.png" title="Twitter" alt="Twitter" class="mc-share"></a> <a rel="nofollow" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85&title=NoSQL%20Weekly%20-%20Issue%20142" title="Reddit"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/reddit.png" title="Reddit" alt="Reddit" class="mc-share"></a> <a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fus2.campaign-archive1.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85&title=NoSQL%20Weekly%20-%20Issue%20142" title="StumbleUpon"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/stumbleupon.png" title="StumbleUpon" alt="StumbleUpon" class="mc-share"></a> <a rel="nofollow" target="_blank" href="http://www.dzone.com/links/add.html?url=http%3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85&title=NoSQL%20Weekly%20-%20Issue%20142" title="DZone"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/dzone.png" title="DZone" alt="DZone" class="mc-share"></a> <a rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85&title=NoSQL%20Weekly%20-%20Issue%20142" title="LinkedIn"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/linkedin.png" title="LinkedIn" alt="LinkedIn" class="mc-share"></a> <a rel="nofollow" target="_blank" href="http://digg.com/submit?phase=2&url=http%3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85&title=NoSQL%20Weekly%20-%20Issue%20142" title="Digg"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/digg.png" title="Digg" alt="Digg" class="mc-share"></a> <a rel="nofollow" target="_blank" href="http://del.icio.us/post?url=http%3A%2F%2Fus2.campaign-archive1.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85&title=NoSQL%20Weekly%20-%20Issue%20142" title="Delicious"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/delicious.png" title="Delicious" alt="Delicious" class="mc-share"></a> <a rel="nofollow" target="_blank" href="http://slashdot.org/bookmark.pl?title=NoSQL%20Weekly%20-%20Issue%20142&url=http%3A%2F%2Fus2.campaign-archive1.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85" title="Slashdot"><img border="0" height="15" width="15" src="http://cdn-images.mailchimp.com/icons/share/slashdot.png" title="Slashdot" alt="Slashdot" class="mc-share"></a> 
+
+You are receiving our weekly newsletter because you signed up at http://www.NoSQLWeekly.com.
+
+Unsubscribe (http://NoSQLWeekly.us2.list-manage1.com/unsubscribe?u=72f68dcee17c92724bc7822fb&id=2f0470315b&e=bed48756ac&c=cbbcb57d85) tomaz@tomaz.me from this list | Forward to a friend (http://us2.forward-to-friend.com/forward?u=72f68dcee17c92724bc7822fb&id=cbbcb57d85&e=bed48756ac) | Update your profile (http://NoSQLWeekly.us2.list-manage2.com/profile?u=72f68dcee17c92724bc7822fb&id=2f0470315b&e=bed48756ac)
+Our mailing address is:
+NoSQL Weekly
+Brooklyn
+Brooklyn, New York 11228
+Copyright (C) 2013 NoSQL Weekly All rights reserved.
+--_----------=_MCPart_121104317
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+=09<head>
+=09=09<title>NoSQL Weekly - Issue 142</title>
+=09    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+=09=09
+=09<style type=3D"text/css">
+=09=09body=2C.backgroundTable{
+=09=09=09background-color:#EEEEEE;
+=09=09}
+=09=09#contentTable{
+=09=09=09border:1px solid #d3d3d3;
+=09=09=09margin-top:10px;
+=09=09}
+=09=09.headerTop{
+=09=09=09background-color:#F5F1DE;
+=09=09=09border-top:0px none #000000;
+=09=09=09border-bottom:0px none #FFFFFF;
+=09=09=09text-align:center;
+=09=09=09padding:0px;
+=09=09}
+=09=09.adminText{
+=09=09=09font-size:10px;
+=09=09=09color:#333333;
+=09=09=09line-height:200%;
+=09=09=09font-family:Helvetica;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.headerBar{
+=09=09=09background-color:#F5F1DE;
+=09=09=09border-top:0px none #333333;
+=09=09=09border-bottom:0px none #FFFFFF;
+=09=09=09padding:0px;
+=09=09}
+=09=09.headerBarText{
+=09=09=09color:#333333;
+=09=09=09font-size:30px;
+=09=09=09font-family:Arial;
+=09=09=09font-weight:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09.title{
+=09=09=09font-size:24px;
+=09=09=09font-weight:bold;
+=09=09=09color:#000000;
+=09=09=09font-family:Helvetica;
+=09=09=09line-height:150%;
+=09=09}
+=09=09.subTitle{
+=09=09=09font-size:14px;
+=09=09=09font-weight:bold;
+=09=09=09color:#000000;
+=09=09=09font-style:normal;
+=09=09=09font-family:Helvetica;
+=09=09}
+=09=09.defaultText{
+=09=09=09font-size:13px;
+=09=09=09color:#333333;
+=09=09=09line-height:150%;
+=09=09=09font-family:Helvetica;
+=09=09=09background-color:#ffffff;
+=09=09=09padding:20px;
+=09=09=09border:0px none #FFFFFF;
+=09=09}
+=09=09.footerRow{
+=09=09=09background-color:#F5F1DE;
+=09=09=09border-top:0px none #F5F1DE;
+=09=09=09padding:20px;
+=09=09}
+=09=09.footerText{
+=09=09=09font-size:10px;
+=09=09=09color:#666666;
+=09=09=09line-height:100%;
+=09=09=09font-family:Helvetica;
+=09=09}
+=09=09a=2Ca:link=2Ca:visited{
+=09=09=09color:#1173C7;
+=09=09=09text-decoration:underline;
+=09=09=09font-weight:bold;
+=09=09}
+=09=09.headerTop a{
+=09=09=09color:#17488a;
+=09=09=09text-decoration:none;
+=09=09=09font-weight:normal;
+=09=09}
+=09=09.footerRow a{
+=09=09=09color:#17488a;
+=09=09=09text-decoration:underline;
+=09=09=09font-weight:normal;
+=09=09}
+=09=09.headerBarText a{
+=09=09=09color:#000000;
+=09=09=09text-decoration:none;
+=09=09}
+</style></head>
+=09<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"background-color: #EEEEEE;">
+=09=09<table width=3D"100%" cellspacing=3D"0" class=3D"backgroundTable" st=
+yle=3D"background-color: #EEEEEE;">
+=09=09=09<tr>
+=09=09=09=09<td valign=3D"top" align=3D"center">
+=09=09=09=09=09<table id=3D"contentTable" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"600" style=3D"border: 1px solid #d3d3d3;margin-top: 10px;">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09<table width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<!--
+-->
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"headerTop" align=3D"right" s=
+tyle=3D"background-color: #F5F1DE;border-top: 0px none #000000;border-bott=
+om: 0px none #FFFFFF;text-align: center;padding: 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"adminText" style=3D"font=
+-size: 10px;color: #333333;line-height: 200%;font-family: Helvetica;text-d=
+ecoration: none;">
+    =09=09=09=09=09=09=09=09=09=09=09=09Email not displaying correctly? <a=
+ href=3D"http://us2.campaign-archive2.com/?u=3D72f68dcee17c92724bc7822fb&i=
+d=3Dcbbcb57d85&e=3Dbed48756ac" class=3D"adminText" style=3D"color: #17488a;t=
+ext-decoration: none;font-weight: normal;font-size: 10px;line-height: 200%=
+;font-family: Helvetica;">View it in your browser.</a>
+=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09<!--
+-->
+=09=09=09=09=09=09=09=09=09</tr>
+ =09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td class=3D"headerBar" style=3D"background-=
+color: #F5F1DE;border-top: 0px none #333333;border-bottom: 0px none #FFFFF=
+F;padding: 0px;">
+=09=09=09=09=09=09=09=09=09=09=09<div class=3D"headerBarText" style=3D"col=
+or: #333333;font-size: 30px;font-family: Arial;font-weight: normal;text-al=
+ign: left;">
+=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"text-align: center;"><im=
+g src=3D"http://gallery.mailchimp.com/72f68dcee17c92724bc7822fb/images/nos=
+ql_weekly_logo.png" alt=3D"" border=3D"0" style=3D"height: 87px; width: 31=
+6px; margin: 0; padding: 0;max-width: 600px;" width=3D"316" height=3D"87">=
+</div>
+=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09<table width=3D"600" cellpadding=3D"20" cellspacin=
+g=3D"0" class=3D"bodyTable">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" align=3D"left" class=3D"d=
+efaultText" style=3D"font-size: 13px;color: #333333;line-height: 150%;font=
+-family: Helvetica;background-color: #ffffff;padding: 20px;border: 0px non=
+e #FFFFFF;">Welcome to issue 142 of NoSQL Weekly. We are <span style=3D"fo=
+nt-size:14px;"><strong>giving away 2 tickets</strong></span> to NoSQL Sear=
+ch Roadshows Zurich. You can enter in this giveaway <span style=3D"font-si=
+ze:14px;"><a href=3D"http://NoSQLWeekly.us2.list-manage1.com/track/click?u=
+=3D72f68dcee17c92724bc7822fb&id=3D8b0833dc98&e=3Dbed48756ac" target=3D"_s=
+elf" style=3D"color: #1173C7;text-decoration: underline;font-weight: bold;=
+">here</a></span>. I would appreciate if you can help spread the word abou=
+t it by sharing it on Twitter=2C Facebook etc.<br>
+<br>
+Amazon has awesome jobs open in their DynamoDB team. Be sure to check them=
+ out in the jobs section. Also if you would like to advertise any NoSQL/Bi=
+g Data jobs=2C please get in touch with me.<br>
+<br>
+<strong><span style=3D"font-size: 16px;"><span style=3D"color: rgb(165=2C=
+ 42=2C 42);"><span class=3D"yiv601008724Apple-style-span" style=3D"border-=
+collapse: separate; font-family: 'Times New Roman'; font-style: normal; fo=
+nt-variant: normal; font-weight: normal; letter-spacing: normal; line-heig=
+ht: normal; orphans: 2; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: 2; word-spacing: 0px;"><span class=3D"yiv601008724Apple=
+-style-span" style=3D"border-collapse: collapse; font-family: Helvetica; f=
+ont-weight: bold; line-height: 16px;">From Our Sponsor</span></span></span=
+></span></strong><br>
+<br>
+<table cellspacing=3D"5">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09=09<a href=3D"http://NoSQLWeekly.us2.list-manage.com/track/click?=
+u=3D72f68dcee17c92724bc7822fb&id=3Df0986a3e9c&e=3Dbed48756ac" style=3D"co=
+lor: #1173C7;text-decoration: underline;font-weight: bold;"><img border=3D=
+"none" src=3D"https://gallery.mailchimp.com/72f68dcee17c92724bc7822fb/imag=
+es/MMS_NoSQL_Weekly_Aug2013_Ad1.png"></a></td>
+=09=09=09<td valign=3D"top">
+=09=09=09=09<span style=3D"font-size: 13px;">See inside your MongoDB deplo=
+yment with free=2C cloud-based monitoring provided by 10gen. With MongoDB=
+ Management Service=2C you&#39;ll gain valuable insights into your product=
+ion system through customizable=2C real-time dashboards tracking over 100=
+ metrics. Create your free account now at <span style=3D"font-size:14px;">=
+<a href=3D"http://NoSQLWeekly.us2.list-manage1.com/track/click?u=3D72f68dc=
+ee17c92724bc7822fb&id=3Dcf93e5da01&e=3Dbed48756ac" style=3D"color: #1173C=
+7;text-decoration: underline;font-weight: bold;">mms.10gen.com</a></span>.=
+</span></td>
+=09=09</tr>
+=09</tbody>
+</table>
+<br>
+<br>
+<strong><span style=3D"font-size: 16px;"><span style=3D"color: rgb(165=2C=
+ 42=2C 42);"><span class=3D"yiv601008724Apple-style-span" style=3D"border-=
+collapse: separate; font-family: 'Times New Roman'; font-style: normal; fo=
+nt-variant: normal; font-weight: normal; letter-spacing: normal; line-heig=
+ht: normal; orphans: 2; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: 2; word-spacing: 0px;"><span class=3D"yiv601008724Apple=
+-style-span" style=3D"border-collapse: collapse; font-family: Helvetica; l=
+ine-height: 15px;"><span class=3D"yiv601008724yiv1810326523yiv2066971547yi=
+v1761786840yiv1758569282yiv748652842subTitle" style=3D"line-height: 1.2em;=
+ outline-style: none; font-weight: bold; font-style: normal; font-family:=
+ Helvetica;">Articles</span>=2C<span class=3D"yiv601008724yiv1810326523yiv=
+2066971547yiv1761786840yiv1758569282yiv748652842subTitle" style=3D"line-he=
+ight: 1.2em; outline-style: none; font-weight: bold; font-style: normal; f=
+ont-family: Helvetica;"><span class=3D"yiv601008724Apple-converted-space">=
+&nbsp;</span>Tutorials and Talks</span></span></span></span></span></stron=
+g><br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age1.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D899e922d13&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underl=
+ine;font-weight: bold;">DDD with Ruby On Rails and MongoDB</a></span><br>
+This presentation is an attempt to bridge the gap via an exploration of wh=
+at Domain-Driven Design (DDD) might look like through Ruby/NoSQL-coloured=
+ glasses. The basis for this will be a port of the DDD sample app to Ruby=
+ on Rails using MongoDB for persistence.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age1.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D83198bc2d4&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underl=
+ine;font-weight: bold;">Data Types !=3D Schema</a></span><br>
+It&#39;s an exciting time to be building large=2C data-driven applications=
+=2E We enjoy a wealth of new tools=2C not just HBase=2C to make that easier=
+ than ever before. Still=2C those same tools that make things possible are=
+ still in infant stages of usability. Hopefully these efforts will move th=
+e conversation forward. Poke holes in the data type extension API and prov=
+ide counter examples that you can&#39;t implement due to lack of expressio=
+n. Take this opportunity to customize your tools to better fit your own ha=
+nds.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Dbe844bf6dd&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Amazon DynamoDB on Mobile - Part 1: Loading Data</a=
+></span><br>
+This post discusses a number of ways in which we could load data from an A=
+mazon DynamoDB table=2C either using the GetItem or Query API actions.
+<ul>
+=09<li>
+=09=09<a href=3D"http://NoSQLWeekly.us2.list-manage.com/track/click?u=3D72=
+f68dcee17c92724bc7822fb&id=3D24eab42fe0&e=3Dbed48756ac" target=3D"_self"=
+ style=3D"color: #1173C7;text-decoration: underline;font-weight: bold;">Am=
+azon DynamoDB on Mobile - Part 2: Advanced Data Loading Options</a> - This=
+ post discusses a number of ways we can modify these requests in the AWS M=
+obile SDKs to either increase performance or gain further insight into how=
+ our requests effect our usage of DynamoDB.</li>
+=09<li>
+=09=09<a href=3D"http://NoSQLWeekly.us2.list-manage.com/track/click?u=3D72=
+f68dcee17c92724bc7822fb&id=3D26b1f27655&e=3Dbed48756ac" target=3D"_self"=
+ style=3D"color: #1173C7;text-decoration: underline;font-weight: bold;">Am=
+azon DynamoDB on Mobile - Part 3: Writing Data</a> -The third part in this=
+ series discusses our options for writing data to DynamoDB.</li>
+</ul>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D46182689a8&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">MAD Skills: New Analysis Practices for Big Data</a>=
+</span><br>
+This paper highlights the emerging practice of Magnetic=2C Agile=2C Deep (=
+MAD) data analysis as a radical departure from traditional Enterprise Data=
+ Warehouses and Business Intelligence. We present our design philosophy=2C=
+ techniques and experience providing MAD analytics for one of the world&#3=
+9;s largest advertising networks at Fox Audience Network=2C using the Gree=
+nplum parallel database system. We describe database design methodologies=
+ that support the agile working style of analysts in these settings.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D8bcb76c72b&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Vehicle Trip Discovery with GIS Tools for Hadoop</a=
+></span><br>
+An interesting task in highway management is to study potential impact of=
+ driver carpooling=2C based on an analysis of automatically collected auto=
+mobile GPS position data. To identify potential enhancements to carpool pa=
+rticipation=2C we set out to study places that have the highest numbers of=
+ trips with similar origin and destination locations. The source data for=
+ this experiment consists of nearly 40 million vehicle position records as=
+sembled from a single day of GPS-collected vehicle positions. The position=
+ data consists of longitude and latitude along with date=2C time=2C and sp=
+eed.<br>
+&nbsp;&nbsp; &nbsp;<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Db81afd4b84&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">High Availability of Hue</a></span><br>
+Very few projects within the Hadoop umbrella have as much end user visibil=
+ity as Hue. Thus=2C it is useful to add a degree of fault tolerance to dep=
+loyments. This post describes how to achieve a higher level of availabilit=
+y (HA) by placing several Hue instances behind a load balancer.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age1.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D42219b1fef&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underl=
+ine;font-weight: bold;">How to create example tables in HBase</a></span><b=
+r>
+Hue 2.5 (gethue.com) comes with another new app for making Apache Hadoop e=
+asier to use: HBase Browser. Apache HBase (hbase.apache.org) is the main b=
+ig data store for Hadoop. This post is the first episode of a series descr=
+ibing the new user experience brought by the app. We will start by describ=
+ing how to create some sample tables with various HBase schemas.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Dc5a452be1f&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Exploring LinkedIn in Neo4j</a></span><br>
+&nbsp;<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age1.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D3bfea7356b&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underl=
+ine;font-weight: bold;">Set Up a Hadoop Compute Cluster Using Raspberry Pi=
+s</a></span><br>
+<br>
+<br>
+<strong><span style=3D"font-size: 16px;"><span style=3D"color: rgb(165=2C=
+ 42=2C 42);"><span class=3D"yiv601008724Apple-style-span" style=3D"border-=
+collapse: separate; font-family: 'Times New Roman'; font-style: normal; fo=
+nt-variant: normal; font-weight: normal; letter-spacing: normal; line-heig=
+ht: normal; orphans: 2; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: 2; word-spacing: 0px;"><span class=3D"yiv601008724Apple=
+-style-span" style=3D"border-collapse: collapse; font-family: Helvetica; f=
+ont-weight: bold; line-height: 16px;">NoSQL Jobs of the Week</span></span>=
+</span></span></strong><br>
+<br>
+DynamoDB is a fast=2C fully managed NoSQL database service that makes it s=
+imple and cost-effective to store and retrieve any amount of data=2C and s=
+erve any level of request traffic. Sound interesting? We are looking for t=
+op developers to join our team and help build the next innovative feature=
+ for DynamoDB=2C one of the fastest-growing AWS services.&quot;<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Da90b66a3b6&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Software Development Engineer-AWS-DynamoDB</a></spa=
+n><br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D84b70c69f0&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Software Development Manager-AWS-DynamoDB</a></span=
+><br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age2.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Df636c6265a&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underl=
+ine;font-weight: bold;">Software Development Engineer-AWS-DynamoDB - TEST/=
+QA</a></span><br>
+<br>
+<br>
+<strong><span style=3D"font-size: 16px;"><span style=3D"color: rgb(165=2C=
+ 42=2C 42);"><span class=3D"yiv601008724Apple-style-span" style=3D"border-=
+collapse: separate; font-family: 'Times New Roman'; font-style: normal; fo=
+nt-variant: normal; font-weight: normal; letter-spacing: normal; line-heig=
+ht: normal; orphans: 2; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: 2; word-spacing: 0px;"><span class=3D"yiv601008724Apple=
+-style-span" style=3D"border-collapse: collapse; font-family: Helvetica; f=
+ont-weight: bold; line-height: 16px;">Interesting Projects=2C Tools and Li=
+braries</span></span></span></span></strong><br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Dc9732fc036&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Kanso</a></span><br>
+Kanso can be described as the NPM for CouchApps=2C with tools for installi=
+ng and publishing shared packages while managing dependencies. The Kanso c=
+ommunity provides reusable build-tools=2C modules=2C templates and more vi=
+a the online repository. Kanso&#39;s built around a powerful packaging sys=
+tem=2C meaning almost all the functionality can be customized by you.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D4409f35841&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">rediscala</a></span><br>
+A Redis client for Scala (2.10+) and (AKKA 2.2+) with non-blocking and asy=
+nchronous I/O operations.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Dffe988ddc4&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Watchtower</a></span><br>
+Mortar Watchtower is a plugin for the Mortar Gem. It provides instant feed=
+back about what is happening in your Pig script. On save=2C Mortar Watchto=
+wer will illustrate your data and feed the results to a local webpage.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D11181d1240&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Centrifuge</a></span><br>
+Simple platform for real-time message broadcasting in web applications. It=
+ is It is built using Tornado=2C ZeroMQ and Redis.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Dd40a921ef4&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">hindex - Secondary Index for HBase</a></span><br>
+HBase Secondary Index is 100% server side implementation with co processor=
+s which persists index data in a separate table. Indexing is region wise a=
+nd custom load balancer co-locates the index table regions with actual tab=
+le regions.<br>
+<br>
+<br>
+<strong><span style=3D"font-size: 16px;"><span style=3D"color: rgb(165=2C=
+ 42=2C 42);"><span class=3D"yiv601008724Apple-style-span" style=3D"border-=
+collapse: separate; font-family: 'Times New Roman'; font-style: normal; fo=
+nt-variant: normal; font-weight: normal; letter-spacing: normal; line-heig=
+ht: normal; orphans: 2; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: 2; word-spacing: 0px;"><span class=3D"yiv601008724Apple=
+-style-span" style=3D"border-collapse: collapse; font-family: Helvetica; f=
+ont-weight: bold; line-height: 16px;">New Releases</span></span></span></s=
+pan></strong><br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age1.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D8eb0c92e0f&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underl=
+ine;font-weight: bold;">Riak CS 1.4</a></span><br>
+Basho has announced the availability of Riak CS 1.4 and Riak CS 1.4 Enterp=
+rise. Riak CS 1.4 introduces formal integration with OpenStack=2C provides=
+ enhanced performance and manageability=2C includes community requests=2C=
+ and improves performance at scale. Riak CS 1.4 Enterprise significantly b=
+oosts the performance of multi-data center replication by allowing for con=
+current channels=2C so the full capacity of the network and cluster size c=
+an scale the performance to available resources.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age2.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D7f64264bca&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underl=
+ine;font-weight: bold;">Neo4j 2.0.0 Milestone 4</a></span><br>
+In working towards a major 2.0 release with some outstanding new functiona=
+lity=2C this milestone contains many beneficial and necessary changes=2C s=
+ome of which will require changes in the way Neo4j is used.<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Db81805d18c&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">ArangoDB 1.4 Alpha 1</a></span><br>
+<br>
+<br>
+<strong><span style=3D"font-size: 16px;"><span style=3D"color: rgb(165=2C=
+ 42=2C 42);"><span class=3D"yiv601008724Apple-style-span" style=3D"border-=
+collapse: separate; font-family: 'Times New Roman'; font-style: normal; fo=
+nt-variant: normal; font-weight: normal; letter-spacing: normal; line-heig=
+ht: normal; orphans: 2; text-indent: 0px; text-transform: none; white-spac=
+e: normal; widows: 2; word-spacing: 0px;"><span class=3D"yiv601008724Apple=
+-style-span" style=3D"border-collapse: collapse; font-family: Helvetica; f=
+ont-weight: bold; line-height: 16px;">Upcoming Events and Webinars</span><=
+/span></span></span></strong><br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D70a676d8ec&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Webinar: What&#39;s New in Riak CS 1.4</a></span><b=
+r>
+This webinar will cover
+<ul>
+=09<li>
+=09=09Riak CS architecture=2C operations=2C and what&#39;s new in the late=
+st version of Riak CS</li>
+=09<li>
+=09=09APIs and interfaces=2C plus the Riak CS GUI</li>
+=09<li>
+=09=09Building private and public clouds with Riak CS</li>
+=09<li>
+=09=09Use cases and user stories</li>
+</ul>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Dde8573a061&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Webinar: Right and Wrong Ways to Implement MongoDB<=
+/a></span><br>
+MongoDB offers users a great deal of flexibility vis-a-vis implementation=
+ decisions=2C and this flexibility brings a lot of power. But with great p=
+ower comes great responsibility. In this talk we&#39;ll cover some better=
+ and worse implementation options=2C including deployment topologies=2C ca=
+pacity provisioning=2C data loading=2C and more!<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D83f40e95c4&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">Webinar: Node.js &amp; NoSQL</a></span><br>
+Join us to learn how Nodejitsu and Cloudant deliver the scalability=2C fle=
+xibility of deployment=2C and performance that enterprises are looking for=
+ in their web and mobile applications. You&#39;ll hear from two experts in=
+ building enterprise solutions with distributed systems<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3Df4a0b79b3d&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underli=
+ne;font-weight: bold;">GOTO Night on NoSQL - part I</a></span><br>
+Stefan Armbruster=2C Field Engineer for EMEA at Neo Technology presents &q=
+uot;Data Modelling with Graphs&quot; and Joel Jacobson and Matthew Revell=
+ from Basho present &quot;Distributed Search with Yokozuna&quot;<br>
+<br>
+<span style=3D"font-size:14px;"><a href=3D"http://NoSQLWeekly.us2.list-man=
+age1.com/track/click?u=3D72f68dcee17c92724bc7822fb&id=3D307700abac&e=3D=
+bed48756ac" target=3D"_self" style=3D"color: #1173C7;text-decoration: underl=
+ine;font-weight: bold;">Using Go and MongoDB for Backups - New York=2C NY<=
+/a></span><br>
+In this talk=2C we&#39;ll hear from Sam Helman=2C Software Engineer at 10g=
+en=2C on how 10gen is integrating Go into our new and existing cloud tools=
+=2E This was an opportunity to experiment with new technologies and create a=
+ better product for end users.<br>
+<br>
+<span style=3D"font-size: 16px;"><span style=3D"color: rgb(47=2C 79=2C 79)=
+;"><strong>Share NoSQL Weekly</strong></span></span>&nbsp; <a rel=3D"nofol=
+low" target=3D"_blank" href=3D"http://www.facebook.com/share.php?u=3Dhttp%=
+3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%=
+3Dcbbcb57d85&t=3DNoSQL%20Weekly%20-%20Issue%20142" title=3D"Facebook"><img=
+ border=3D"0" height=3D"15" width=3D"15" src=3D"http://cdn-images.mailchim=
+p.com/icons/share/facebook.png" title=3D"Facebook" alt=3D"Facebook" class=
+=3D"mc-share"></a> <a rel=3D"nofollow" target=3D"_blank" href=3D"http://tw=
+itter.com/?status=3DNoSQL%20Weekly%20-%20Issue%20142%20-%20http%3A%2F%2Fee=
+purl.com%2FDKAp5" title=3D"Twitter"><img border=3D"0" height=3D"15" width=
+=3D"15" src=3D"http://cdn-images.mailchimp.com/icons/share/twitter.png" ti=
+tle=3D"Twitter" alt=3D"Twitter" class=3D"mc-share"></a> <a rel=3D"nofollow=
+" target=3D"_blank" href=3D"http://reddit.com/submit?url=3Dhttp%3A%2F%2Fus=
+2.campaign-archive1.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d=
+85&title=3DNoSQL%20Weekly%20-%20Issue%20142" title=3D"Reddit"><img border=
+=3D"0" height=3D"15" width=3D"15" src=3D"http://cdn-images.mailchimp.com/i=
+cons/share/reddit.png" title=3D"Reddit" alt=3D"Reddit" class=3D"mc-share">=
+</a> <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.stumbleupon.=
+com/submit?url=3Dhttp%3A%2F%2Fus2.campaign-archive1.com%2F%3Fu%3D72f68dcee=
+17c92724bc7822fb%26id%3Dcbbcb57d85&title=3DNoSQL%20Weekly%20-%20Issue%2014=
+2" title=3D"StumbleUpon"><img border=3D"0" height=3D"15" width=3D"15" src=
+=3D"http://cdn-images.mailchimp.com/icons/share/stumbleupon.png" title=3D"=
+StumbleUpon" alt=3D"StumbleUpon" class=3D"mc-share"></a> <a rel=3D"nofollo=
+w" target=3D"_blank" href=3D"http://www.dzone.com/links/add.html?url=3Dhtt=
+p%3A%2F%2Fus2.campaign-archive1.com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26i=
+d%3Dcbbcb57d85&title=3DNoSQL%20Weekly%20-%20Issue%20142" title=3D"DZone"><=
+img border=3D"0" height=3D"15" width=3D"15" src=3D"http://cdn-images.mailc=
+himp.com/icons/share/dzone.png" title=3D"DZone" alt=3D"DZone" class=3D"mc-=
+share"></a> <a rel=3D"nofollow" target=3D"_blank" href=3D"http://www.linke=
+din.com/shareArticle?mini=3Dtrue&url=3Dhttp%3A%2F%2Fus2.campaign-archive2.=
+com%2F%3Fu%3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85&title=3DNoSQL%20W=
+eekly%20-%20Issue%20142" title=3D"LinkedIn"><img border=3D"0" height=3D"15=
+" width=3D"15" src=3D"http://cdn-images.mailchimp.com/icons/share/linkedin=
+=2Epng" title=3D"LinkedIn" alt=3D"LinkedIn" class=3D"mc-share"></a> <a rel=
+=3D"nofollow" target=3D"_blank" href=3D"http://digg.com/submit?phase=3D2&u=
+rl=3Dhttp%3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%3D72f68dcee17c92724bc78=
+22fb%26id%3Dcbbcb57d85&title=3DNoSQL%20Weekly%20-%20Issue%20142" title=3D"=
+Digg"><img border=3D"0" height=3D"15" width=3D"15" src=3D"http://cdn-image=
+s.mailchimp.com/icons/share/digg.png" title=3D"Digg" alt=3D"Digg" class=3D=
+"mc-share"></a> <a rel=3D"nofollow" target=3D"_blank" href=3D"http://del.i=
+cio.us/post?url=3Dhttp%3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%3D72f68dce=
+e17c92724bc7822fb%26id%3Dcbbcb57d85&title=3DNoSQL%20Weekly%20-%20Issue%201=
+42" title=3D"Delicious"><img border=3D"0" height=3D"15" width=3D"15" src=
+=3D"http://cdn-images.mailchimp.com/icons/share/delicious.png" title=3D"De=
+licious" alt=3D"Delicious" class=3D"mc-share"></a> <a rel=3D"nofollow" tar=
+get=3D"_blank" href=3D"http://slashdot.org/bookmark.pl?title=3DNoSQL%20Wee=
+kly%20-%20Issue%20142&url=3Dhttp%3A%2F%2Fus2.campaign-archive2.com%2F%3Fu%=
+3D72f68dcee17c92724bc7822fb%26id%3Dcbbcb57d85" title=3D"Slashdot"><img bor=
+der=3D"0" height=3D"15" width=3D"15" src=3D"http://cdn-images.mailchimp.co=
+m/icons/share/slashdot.png" title=3D"Slashdot" alt=3D"Slashdot" class=3D"m=
+c-share"></a> <br>
+&nbsp; </td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td class=3D"footerRow" align=3D"left" valig=
+n=3D"top" style=3D"background-color: #F5F1DE;border-top: 0px none #F5F1DE;=
+padding: 20px;">
+=09=09=09=09=09=09=09=09=09=09=09<div class=3D"footerText" style=3D"font-s=
+ize: 10px;color: #666666;line-height: 100%;font-family: Helvetica;">
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09<!--  -->
+    =09=09=09=09=09=09=09=09=09=09=09You are receiving our weekly newslett=
+er because you signed up at http://www.NoSQLWeekly.com.
+=09=09=09=09=09=09=09=09=09=09=09=09<!--  -->
+=09=09=09=09=09=09=09=09=09=09=09=09<br>
+    =09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09    =09=09=09=09=09=09=09=09=09<a href=3D"http://NoSQLWeekly.us2.lis=
+t-manage1.com/unsubscribe?u=3D72f68dcee17c92724bc7822fb&id=3D2f0470315b&e=
+=3Dbed48756ac&c=3Dcbbcb57d85" style=3D"color: #17488a;text-decoration: under=
+line;font-weight: normal;">Unsubscribe</a> tomaz@tomaz.me from this list=
+ | <a href=3D"http://us2.forward-to-friend.com/forward?u=3D72f68dcee17c927=
+24bc7822fb&id=3Dcbbcb57d85&e=3Dbed48756ac" style=3D"color: #17488a;text-deco=
+ration: underline;font-weight: normal;">Forward to a friend</a> | <a href=
+=3D"http://NoSQLWeekly.us2.list-manage2.com/profile?u=3D72f68dcee17c92724b=
+c7822fb&id=3D2f0470315b&e=3Dbed48756ac" style=3D"color: #17488a;text-decorat=
+ion: underline;font-weight: normal;">Update your profile</a>
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09    =09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09<!--  -->
+=09=09    =09=09=09=09=09=09=09=09=09<strong>Our mailing address is:</stro=
+ng>
+=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09    =09=09=09=09=09=09=09=09=09<div class=3D"vcard"><span class=3D"o=
+rg fn">NoSQL Weekly</span><div class=3D"adr"><div class=3D"street-address"=
+>Brooklyn</div><span class=3D"locality">Brooklyn</span>=2C <span class=3D"=
+region">New York</span>  <span class=3D"postal-code">11228</span></div><br=
+><a href=3D"http://NoSQLWeekly.us2.list-manage1.com/vcard?u=3D72f68dcee17c=
+92724bc7822fb&id=3D2f0470315b" class=3D"hcard-download">Add us to your add=
+ress book</a></div>
+=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09<!--  -->
+=09=09    =09=09=09=09=09=09=09=09=09<em>Copyright (C) 2013 NoSQL Weekly A=
+ll rights reserved.</em>
+=09=09=09=09=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09</table>
+=09=09<span style=3D"padding: 0px;"></span>
+=09<img src=3D"http://NoSQLWeekly.us2.list-manage.com/track/open.php?u=3D7=
+2f68dcee17c92724bc7822fb&id=3Dcbbcb57d85&e=3Dbed48756ac" height=3D"1" wid=
+th=3D"1"></body>
+</html>
+--_----------=_MCPart_121104317--

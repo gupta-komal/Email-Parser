@@ -1,0 +1,233 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: tomaz+coachspree@tomaz.me
+Received: by 10.50.40.162 with SMTP id y2csp42433igk;
+        Sun, 18 Aug 2013 11:41:26 -0700 (PDT)
+X-Received: by 10.229.151.1 with SMTP id a1mr2481304qcw.53.1376851286188;
+        Sun, 18 Aug 2013 11:41:26 -0700 (PDT)
+Return-Path: <bounce-md_30003874.52111555.v1-63b27b477d0048a581ed1f55be3d99de@mail279.us4.mandrillapp.com>
+Received: from mail279.us4.mandrillapp.com (mail279.us4.mandrillapp.com. [205.201.137.23])
+        by mx.google.com with ESMTP id l8si3031067qai.100.1969.12.31.16.00.00;
+        Sun, 18 Aug 2013 11:41:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-md_30003874.52111555.v1-63b27b477d0048a581ed1f55be3d99de@mail279.us4.mandrillapp.com designates 205.201.137.23 as permitted sender) client-ip=205.201.137.23;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-md_30003874.52111555.v1-63b27b477d0048a581ed1f55be3d99de@mail279.us4.mandrillapp.com designates 205.201.137.23 as permitted sender) smtp.mail=bounce-md_30003874.52111555.v1-63b27b477d0048a581ed1f55be3d99de@mail279.us4.mandrillapp.com;
+       dkim=pass header.i=support@addthis.com;
+       dmarc=pass (p=NONE dis=NONE) d=addthis.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=addthis.com;
+ h=From:Subject:Reply-To:To:Message-Id:Date:MIME-Version:Content-Type; i=support@addthis.com;
+ bh=qR0aMqDN/STt3LyGK9TL3maNhGo=;
+ b=B47syr5dKU85w9kgKkuwZceSPG1d3faf/v1mec5Xj7N5VoHievYqrQF9irAQLOZfPvD/sCbFHTUz
+   CApvWwrztC1LyT017grrOGMai+Uxv4mewCbHr0JOr3gEQ9wTZa0hA94iaOqLOPDgy09ELrQ7B5JG
+   l1vntCsiN1Wbj90v7TE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=addthis.com;
+ b=ROF2veIP5D8/1g/wTpRXqgvyk45goYesHxVjIpgeXQkJ9ajrdlmAnNqB26oCApicWBSypjf1EE88
+   eeQLHr0se5AR/PQY7Wj+JreZnaAO11uZqwWdYOAJXJ9qUPl1QkNDaaoEJe7UUTW/Pz/v4nOfhHO2
+   lgeUpsQeSDQHkvg3zig=;
+Received: from localhost (127.0.0.1) by mail279.us4.mandrillapp.com id h24alc14i28p for <tomaz+coachspree@tomaz.me>; Sun, 18 Aug 2013 18:41:25 +0000 (envelope-from <bounce-md_30003874.52111555.v1-63b27b477d0048a581ed1f55be3d99de@mail279.us4.mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=c.mandrillapp.com; 
+ i=@c.mandrillapp.com; q=dns/txt; s=mandrill; t=1376851285; h=From : 
+ Subject : Reply-To : To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=1RbECK8FlYZk6clp0DDB6bXcr81MSHczgWL/TSDpdQo=; 
+ b=o/ayBnMV6gke5ZS8jcm+TvpSiD9TUVsgMZE+gg952LkZ+AtKrMur5OGgJFvIFdtHBs0Pyg
+ nMvRpaeMjrrsII70rD0M+gUjOEIy1YZ4k+q83u0TT0SymyBAy6txSmXIa+XdkHel1w/5WrP9
+ eI6/lGQmEqp262BeEsStIyv4faAPQ=
+From: AddThis Team <support@addthis.com>
+Subject: Your Weekly AddThis Analytics
+Return-Path: <bounce-md_30003874.52111555.v1-63b27b477d0048a581ed1f55be3d99de@mail279.us4.mandrillapp.com>
+Reply-To: Do Not Reply <no_reply@addthis.com>
+Received: from [206.165.250.233] by mandrillapp.com id 63b27b477d0048a581ed1f55be3d99de; Sun, 18 Aug 2013 18:41:25 +0000
+To: <tomaz+coachspree@tomaz.me>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30003874.63b27b477d0048a581ed1f55be3d99de
+X-Mandrill-User: md_30003874
+Message-Id: <30003874.20130818184125.521115554d2644.51547332@mail279.us4.mandrillapp.com>
+Date: Sun, 18 Aug 2013 18:41:25 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-J9euXuM8lAA5JElHxTwlPw"
+
+--_av-J9euXuM8lAA5JElHxTwlPw
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+AddThis Analytics Summary
+
+
+Profile: ra-51e03e26334a0968
+Aug 10 - 16, 2013
+
+Here's your weekly update for www.coachspree.com:
+
+
+Clicks: 0
+Shares: 1
+Follows: 0
+
+Full Report: http://www.addthis.com/ct?lnk=%2Fanalytics%3Fpub%3D54076170%26stats%3Dcustom%26date-from%3D2013-08-10%26date-to%3D2013-08-16%26utm_source%3Danalytics%26utm_medium%3Demail%26utm_campaign%3Dat_gtc&pco=ema-production
+
+This is a weekly analytics report that you signed up for at AddThis.  If you do not wish to receive future analytics reports, please visit http://www.addthis.com/unsubscribe?email=tomaz+coachspree@tomaz.me&pubid=54076170 
+
+
+Copyright (c) 2013 AddThis1595 Spring Hill Rd, Suite 300, Vienna, VA 22182
+
+
+--_av-J9euXuM8lAA5JElHxTwlPw
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Your Weekly AddThis Analytics
+</title>
+<style>
+.eoa_8aa{ width:100% !important; }
+
+#outlook a{padding:0;} 
+body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} 
+body{-webkit-text-size-adjust:none;} 
+
+body{margin:0; padding:0;}
+img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+table td{border-collapse:collapse;}
+#atemailbody {height:100% !important; margin:0; padding:0; width:100% !important; background:#f2f2f2;}
+#atemailbody td, #atemailbody th {display:table-cell; vertical-align:top; font-family:'Helvetica Neue','Helvetica','Arial',sans-serif;}
+#atemailbody h2, #atemailbody h3, #atemailbody h4 {display:block; text-align:left; margin-top:0; margin-right:0; margin-bottom:10px; margin-left:0; }
+#atemailbody a, #atemailbody a:visited {font-weight:normal; text-decoration:none; color:#0098F8;}
+</style>
+
+<body style="-webkit-text-size-adjust:none;width:100% !important;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;" class="eoa_8aa">
+
+<table width="100%" height="100%" bgcolor="#f2f2f2" cellspacing="0" id="atemailbody" style="background:#f2f2f2;width:100% !important;height:100% !important;-webkit-text-size-adjust:none;width:100% !important;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:0;margin-left:0;margin-right:0;margin-top:0;" class="eoa_8aa"><tbody><tr><td valign="top" align="center">
+<table border="0" cellpadding="0" cellspacing="0"><tbody>
+<tr>
+    <td>&nbsp;</td>
+    <td width="580" valign="top" align="left" style="padding-top:20px;padding-bottom:20px;padding-left:10px;padding-right:10px;">
+        <!-- Content: Header -->
+        <table width="100%" cellspacing="0" cellpadding="0" style="margin:0;padding:0;">
+            <tr>
+                <td width="100%" align="left">&nbsp;</td>
+                <td style="height:32px;vertical-align:top;display:table-cell;border-collapse:collapse;"><a href="http://www.facebook.com/addthis" target="_blank"><img src="http:////cache.addthiscdn.com/site/email/site/2.0/facebook.png" width="32" height="32" border="0" hspace="2" alt="Join us on Facebook" style="margin:0;padding:0;"></a></td>
+                <td><img src="http:////cache.addthiscdn.com/site/email/site/2.0/t.gif" height="1" width="4" border="0" alt=""></td>
+                <td style="height:32px;vertical-align:top;display:table-cell;border-collapse:collapse;"><a href="http://www.twitter.com/addthis" target="_blank"><img src="http:////cache.addthiscdn.com/site/email/site/2.0/twitter.png" width="32" height="32" border="0" hspace="2" alt="Follow us on Twitter" style="margin:0;padding:0;"></a></td>
+                <td><img src="http:////cache.addthiscdn.com/site/email/site/2.0/t.gif" height="1" width="4" border="0" alt=""></td>
+                <td style="height:32px;vertical-align:top;display:table-cell;border-collapse:collapse;"><a href="http://www.addthis.com/ct?lnk=%2Fblog&pco=ema-production" target="_blank"><img src="http:////cache.addthiscdn.com/site/email/site/2.0/rss.png" width="32" height="32" border="0" hspace="2" alt="AddThis Blog" style="margin:0;padding:0;"></a></td>
+            </tr>
+            <tr><td colspan="6"><img src="http:////cache.addthiscdn.com/site/email/site/2.0/t.gif" height="10" border="0" alt=""></td></tr>
+        </table>
+
+        <!-- Content: Main -->
+                <table bgcolor="#ffffff" width="100%" cellpadding="30" style="background:#fff;margin:0;padding:0;"><tbody><tr><td valign="top" style="padding:30px 15px;">
+        <table width="100%">    
+            <tr>
+                <td align="left" style="padding-top:0px;padding-bottom:40px;"><p style="margin:0;padding:0;"><a href="http://www.addthis.com/ct?lnk=&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968" target="_blank"><img src="http:////cache.addthiscdn.com/site/email/site/2.0/logo.png" width="205" height="34" border="0" alt="AddThis" style="margin:0;padding:0;"></a></p></td>
+            </tr>
+            <tr>
+                <td align="left">
+                    <h3 style="padding:0;margin:0;font-family:'Helvetica Neue','Helvetica','Arial',sans-serif;line-height:38px;font-size:32px;font-weight:300;letter-spacing:-0.05em;color:#000000;">Here's your weekly update for <a href="http://www.addthis.com/ct?lnk=analytics%3Fpub%3D54076170%26stats%3Dcustom%26date-from%3D2013-08-10%26date-to%3D2013-08-16%26utm_source%3Danalytics%26utm_medium%3Demail%26utm_campaign%3Dat_gtc%26domain%3Dwww.coachspree.com&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968%7Cdomain%3Dwww.coachspree.com" target="_blank" style="text-decoration:none;color:#0098F8">www.coachspree.com</a></h3>
+                    <p style="margin-top:10px;font-family:'Helvetica','Arial',sans-serif;font-size:16px;line-height:24px;color:#444;">
+                        Aug 10 - 16, 2013 &nbsp;<span style="color:#ccc;">|</span>&nbsp;  Profile: ra-51e03e26334a0968                    </p>
+                </td>
+            </tr>
+            <tr><td style="padding-top:20px;padding-bottom:30px;">
+
+                <!-- Shares, Clicks, Follows -->
+                <table width="100%" cellspacing="0" cellpadding="5">
+                    <tr>
+                        <td width="33%" valign="top" align="center" style="vertical-align:top;display:table-cell;border-collapse:collapse;font-family:'Helvetica','Arial',sans-serif;font-size:16px;line-height:24px;color:#444;">
+                            <img src="http:////cache.addthiscdn.com/site/email/analytics/5.0/analytics_shares.png" border="0" width="80" height="89" alt=""><br>
+                                                            <b style="font-size:24px;">1</b>
+                            <br>Shares
+                        </td>
+                        <td width="33%" valign="top" align="center" style="vertical-align:top;display:table-cell;border-collapse:collapse;font-family:'Helvetica','Arial',sans-serif;font-size:16px;line-height:24px;color:#444;">
+                            <img src="http:////cache.addthiscdn.com/site/email/analytics/5.0/analytics_clicks.png" border="0" width="80" height="89" alt=""><br>
+                                                            <b style="font-size:24px;">0</b>
+                            <br>Clicks
+                        </td>
+                        <td width="33%" valign="top" align="center" style="vertical-align:top;display:table-cell;border-collapse:collapse;font-family:'Helvetica','Arial',sans-serif;font-size:16px;line-height:24px;color:#444;">
+                            <img src="http:////cache.addthiscdn.com/site/email/analytics/5.0/analytics_follows.png" border="0" width="80" height="89" alt=""><br>
+                                                            <a href="http://www.addthis.com/get/follow"><img src="http://cache.addthiscdn.com/site/email/analytics/4.0/btn_gtc.gif" width="101" height="30" border="0" alt="Get the Code"></a>
+                            <br>Follows
+                        </td>
+                  </tr>
+                </table>
+
+            </td></tr>            
+            <tr><td align="left">
+
+                <!-- Trending Content -->
+                <table width="100%" border="0" cellspacing="0" cellpadding="10">
+                    <thead>
+                        <tr>
+                            <th bgcolor="#2e3237" style="background:#2e3237;vertical-align:top;display:table-cell;border-collapse:collapse;border-right:1px solid #3d4247;padding:10px;font-family:'Helvetica','Arial',sans-serif;font-size:14px;line-height:24px;font-weight:normal;text-align:left;color:#fff;">Trending Content</th>
+                            <th bgcolor="#2e3237" align="right" style="background:#2e3237;vertical-align:top;display:table-cell;border-collapse:collapse;border-right:1px solid #3d4247;padding:10px;text-align:right !important;font-family:'Helvetica','Arial',sans-serif;font-size:14px;line-height:24px;font-weight:normal;text-align:left;color:#fff;">Shares</th>
+                            <th bgcolor="#2e3237" align="right" style="background:#2e3237;vertical-align:top;display:table-cell;border-collapse:collapse;border-right:1px solid #3d4247;padding:10px;text-align:right !important;font-family:'Helvetica','Arial',sans-serif;font-size:14px;line-height:24px;font-weight:normal;text-align:left;color:#fff;">Clicks</th>
+                            <th bgcolor="#2e3237" align="right" style="background:#2e3237;vertical-align:top;display:table-cell;border-collapse:collapse;padding:10px;text-align:right !important;font-family:'Helvetica','Arial',sans-serif;font-size:14px;line-height:24px;font-weight:normal;text-align:left;color:#fff;">Follows</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                                                <tr>
+                            <td valign="top" align="left" style="vertical-align:top;display:table-cell;border-collapse:collapse;padding:10px;border-bottom:1px solid #dedede;font-family:'Helvetica','Arial',sans-serif;font-size:14px;color:#666;"><a href="http://www.addthis.com/ct?lnk=analytics%2Fcontent-detail%3Fpub%3D54076170%26stats%3Dcustom%26date-from%3D2013-08-10%26date-to%3D2013-08-16%26utm_source%3Danalytics%26utm_medium%3Demail%26utm_campaign%3Dat_gtc%26domain%3Dwww.coachspree.com%26url%3Dhttps%253A%252F%252Fwww.coachspree.com%252Fcoaches%252Fdavid-brunsek%253Fref%253Dbadge&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968%7Cdomain%3Dwww.coachspree.com" style="text-decoration:none;color:#0098F8">David Brun?ek Coach Profile</a></td>
+                            <td valign="top" align="right" style="vertical-align:top;display:table-cell;border-collapse:collapse;padding:10px;border-bottom:1px solid #dedede;font-family:'Helvetica','Arial',sans-serif;font-size:14px;color:#666;">1</td>
+                            <td valign="top" align="right" style="vertical-align:top;display:table-cell;border-collapse:collapse;padding:10px;border-bottom:1px solid #dedede;font-family:'Helvetica','Arial',sans-serif;font-size:14px;color:#666;">&ndash;</td>
+                            <td valign="top" align="right" style="vertical-align:top;display:table-cell;border-collapse:collapse;padding:10px;border-bottom:1px solid #dedede;font-family:'Helvetica','Arial',sans-serif;font-size:14px;color:#666;">&ndash;</td>
+                        </tr>
+                                            </tbody>
+                </table>
+
+            </td></tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr><td align="center">
+                                    <p><a href="http://www.addthis.com/ct?lnk=analytics%3Fpub%3D54076170%26stats%3Dcustom%26date-from%3D2013-08-10%26date-to%3D2013-08-16%26utm_source%3Danalytics%26utm_medium%3Demail%26utm_campaign%3Dat_gtc%26domain%3DAll%2520websites&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968" target="_blank"><img src="http:////cache.addthiscdn.com/site/email/analytics/5.0/btn-viewmore.jpg" border="0" width="170" height="52" alt="View More"></a></p>
+            </td></tr>
+            <tr><td>&nbsp;</td></tr>
+        </table>
+        </td></tr></tbody></table>
+
+        
+                        <!-- Content: Footer -->
+        <table bgcolor="#2e3237" width="100%" cellpadding="30" style="background:#2e3237;"><tbody>
+            <tr>
+                <td align="center" style="padding:30px;">
+                    <p style="font-family:'Helvetica','Arial',sans-serif;color:#ccc;font-size:14px;line-height:24px;text-align:center">
+                        <a href="http://www.addthis.com/ct?lnk=settings%2Fuser&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968" style="text-decoration:none;color:#ffffff;">Unsubscribe</a> &nbsp;|&nbsp; 
+                        <a href="http://www.addthis.com/ct?lnk=settings%2Fpublisher&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968" style="text-decoration:none;color:#ffffff;">Manage Settings</a> &nbsp;|&nbsp; 
+                        <a href="http://www.addthis.com/ct?lnk=support&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968" style="text-decoration:none;color:#ffffff;">Support</a> &nbsp;|&nbsp; 
+                        <a href="http://www.surveymonkey.com/s/AddThis-Survey-2013" target="_blank" style="text-decoration:none;color:#ffffff;">Customer Survey</a>
+                    </p>
+                    <p style="font-family:'Helvetica','Arial',sans-serif;color:#ccc;font-size:14px;text-align:center">
+                        &copy; 2013 AddThis. 1595 Spring Hill Rd, Suite 300, Vienna, VA 22182                    </p>
+                </td>
+            </tr>
+        </tbody></table>
+                
+        <!-- Email Foot -->
+        <table width="100%"><tr><td>
+            <table width="100%" cellpadding="30" style="margin-top:10px;">
+                <tr>
+                    <td align="center">
+                                                <h3 style="padding:0;margin:0;text-align:center;font-family:'Helvetica Neue','Helvetica','Arial',sans-serif;font-size:24px;font-weight:300;letter-spacing:-0.05em;text-align:center;color:#FE6D4C;">Get Smart Layers</h3>
+                        <p style="padding:0;margin:0;font-family:'Helvetica Neue','Helvetica','Arial',sans-serif;font-size:16px;line-height:24px;font-weight:300;letter-spacing:-0.05em;text-align:center;color:#666;">Increase traffic, followers, and engagement on desktop and mobile browsers instantly with new AddThis Smart Layers.<br/><a href="http://www.addthis.com/ct?lnk=get%2Fsmart-layers&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968" target="_blank" style="text-decoration:none;color:#000;">Get started &rarr;</a></p>
+
+                        <div style="padding-top:20px;padding-bottom:10px;margin:0;"><hr style="margin:0;height:0px;zoom:1;overflow:hidden;border-top:1px solid #dedede;border-bottom:1px solid #fff;"></div>
+                                                
+                        <p style="margin-top:10px;font-family:'Helvetica Neue','Helvetica','Arial',sans-serif;font-size:14px;font-weight:300;line-height:24px;text-align:center;color:#666;">AddThis personalizes the web with powerful,<br>easy-to-use social engagement tools, APIs and services.<br>Learn more at <a href="http://www.addthis.com/ct?lnk=&pco=ema-production&dim=pubid%3Dra-51e03e26334a0968" target="_blank" style="text-decoration:none;color:#000;">www.addthis.com</a>.
+                        </p>
+                        <p style="margin:0;padding:10px 0;font-family:'Helvetica Neue','Helvetica','Arial',sans-serif;color:#999;text-align:center;font-size:12px;line-height:16px">Please do not reply to this email.</p>
+                    </td>
+                </tr>
+            </table>
+        </td></tr></table>
+        
+    </td>
+    <td>&nbsp;</td>
+</tbody></tr>
+</table>
+</td></tr></tbody></table>
+<img src="http://o.addthis.com/pt/ema-production/eo/5211155404408db4/pubid/ra-51e03e26334a0968.gif" border="0" />
+<img src="http://cf.addthis.com/red/p.png?gen=2000&rb=0&pco=cnv-100&ev=email_viewer&pxid=141" />
+<img src="http://mandrillapp.com/track/open.php?u=30003874&id=63b27b477d0048a581ed1f55be3d99de" height="1" width="1"></body> 
+</html>
+
+
+--_av-J9euXuM8lAA5JElHxTwlPw--

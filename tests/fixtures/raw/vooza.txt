@@ -1,0 +1,694 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: tomaz@tomaz.me
+Received: by 10.50.40.162 with SMTP id y2csp186609igk;
+        Wed, 14 Aug 2013 08:30:10 -0700 (PDT)
+X-Received: by 10.49.96.196 with SMTP id du4mr12465616qeb.12.1376494209736;
+        Wed, 14 Aug 2013 08:30:09 -0700 (PDT)
+Return-Path: <bounce-mc.us4_9054445.283373-tomaz=tomaz.me@mail132.wdc02.mcdlv.net>
+Received: from mail132.wdc02.mcdlv.net (mail132.wdc02.mcdlv.net. [205.201.130.132])
+        by mx.google.com with ESMTP id k20si17814900qej.109.2013.08.14.08.30.08
+        for <tomaz@tomaz.me>;
+        Wed, 14 Aug 2013 08:30:09 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us4_9054445.283373-tomaz=tomaz.me@mail132.wdc02.mcdlv.net designates 205.201.130.132 as permitted sender) client-ip=205.201.130.132;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us4_9054445.283373-tomaz=tomaz.me@mail132.wdc02.mcdlv.net designates 205.201.130.132 as permitted sender) smtp.mail=bounce-mc.us4_9054445.283373-tomaz=tomaz.me@mail132.wdc02.mcdlv.net;
+       dkim=pass header.i=matt=3Dvooza.com@mail132.wdc02.mcdlv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail132.wdc02.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=matt=3Dvooza.com@mail132.wdc02.mcdlv.net;
+ bh=R9hq+YDwJUC0AvnFwEh/Rpz0IwE=;
+ b=eobbza+GFB78RbvuyaZ4aNu18HbEEnL0ZBwgxfyIq0e4BcxF+IpeJOxIm94fNgRzVDKr5PBuB1l1
+   sWd9KP+XTTudYKn4rZbcxNPPfsV9wArFSfWP1GXlT/mRA/5EAkqjvjfr+aarpiwL7mZDZiPNnfAF
+   +Rz00C8wM4+P1uYMR9k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail132.wdc02.mcdlv.net;
+ b=wXsHB4JUxBcv53/Fd9NY77UoMME2EHHxTr6k6mxfD9v8tQ3xwYOkik6x2KlS2Y+kUAIlQ26rkmTb
+   +e62gpEHTnRmTn02vYTlQqcVJE0ZZkyQCMMBy9Jcm5w5VZHpzsp6Uui7EUWTglFQZoAUxIJc4xnn
+   oOhbs3XT9G0PA8UIVjY=;
+Received: from (127.0.0.1) by mail132.wdc02.mcdlv.net (PowerMTA(TM) v3.5r16) id h1eh821jvmge for <tomaz@tomaz.me>; Wed, 14 Aug 2013 15:30:00 +0000 (envelope-from <bounce-mc.us4_9054445.283373-tomaz=tomaz.me@mail132.wdc02.mcdlv.net>)
+Subject: =?utf-8?Q?How=20to=20get=20women=20in=20the=20tech=20world=20to=20hate=20you?=
+From: =?utf-8?Q?Vooza?= <matt@vooza.com>
+Reply-To: =?utf-8?Q?Vooza?= <matt@vooza.com>
+To: <tomaz@tomaz.me>
+Date: Wed, 14 Aug 2013 15:30:00 +0000
+Message-ID: <f9406666fc987951aea7645f7f280bf34b7.20130814152942@mail132.wdc02.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CID3d8068bb38f280bf34b7**
+X-Campaign: mailchimpf9406666fc987951aea7645f7.3d8068bb38
+X-campaignid: mailchimpf9406666fc987951aea7645f7.3d8068bb38
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=f9406666fc987951aea7645f7&id=3d8068bb38&e=f280bf34b7
+X-MC-User: f9406666fc987951aea7645f7
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-f9406666fc987951aea7645f7-3d8068bb38-f280bf34b7@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://vooza.us4.list-manage1.com/unsubscribe?u=f9406666fc987951aea7645f7&id=ce34736452&e=f280bf34b7&c=3d8068bb38>
+Sender: "Vooza" <matt=vooza.com@mail132.wdc02.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1836943270"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1836943270
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Vooza | Funny videos about the startup world. New eps weekly.
+------------------------------------------------------------
+http://www.vooza.com
+
+Watch: 10 Steps To Becoming A Brogrammer (http://vooza.com/videos/10-steps=
+-to-becoming-a-brogrammer)
+
+Crushing code and playing beer pong is just the beginning. Warning: This b=
+romance does NOT end well. Watch the newest Vooza video. (http://vooza.com=
+/videos/10-steps-to-becoming-a-brogrammer)
+
+
+http://vooza.com/videos/10-steps-to-becoming-a-brogrammer?wkey=3D=
+dG9tYXpAdG9tYXoubWU=3D&foreign_data=3Dmailchimp_campaign_id%3A3d8068bb38
+
+
+
+The @VoozaHQ Hot Five
+We're speaking truth to power (or is it sarcasm to a sea of apathy?) on Tw=
+itter...
+1. Stop giving the NSA such a hard time...
+Problem: Terrorists hate us for our freedoms.
+Solution: Take away our own freedoms. (Tweet (https://twitter.com/voozahq/=
+status/366989526410870784) )
+2. We don=E2=80=99t make distinctions between IA and UI and UX. To us=2C t=
+hey are all meaningless acronyms. (Tweet (https://twitter.com/voozahq/stat=
+us/366950771335495681) )
+3. Coding is like jazz. No one wants to hear you talk about it. (Tweet (ht=
+tps://twitter.com/voozahq/status/365863563207774209) )
+4. Just saw cutest popup alert ever! "Connect your Bing account now." Okaa=
+ay=2C I'll get right on that...after I pet my Loch Ness Unicorn. (Tweet (h=
+ttps://twitter.com/voozahq/status/365578199243046912) )
+5. Gotta give it to Bezos. Travelling to outer space and running a profita=
+ble newspaper are both glorious fantasies! (Tweet (https://twitter.com/voo=
+zahq/status/364765497054601216) )
+
+Get in the mix here: Follow @VoozaHQ at Twitter (http://www.twitter.com/vo=
+ozahq)  and/or "Like" us on Facebook. (http://www.facebook.com/pages/Vooza=
+/101946233270299)
+
+[Sponsor] Get your WordPress fix from Fantastik
+Vooza uses Fantastik (http://bit.ly/1cksn4B)  for WordPress support. They=
+ can do "any one thing WordPress" for $99. Viva simple pricing! Learn more=
+ about Fantastik. (http://bit.ly/1cksn4B)  [Want to get your company or p=
+roduct in front of Vooza's audience? More details here. (http://vooza.com/=
+advertise/) ]
+
+Recently on Vooza
+You have to treat social media like a fire. Add logs all day. And then wat=
+ch your day go up in flames....
+
+
+http://vooza.com/videos/how-to-get-eyeballs-on-social-media/?wkey=3D=
+dG9tYXpAdG9tYXoubWU=3D&foreign_data=3Dmailchimp_campaign_id%3A3d8068bb38
+
+
+And that's the end of the line.
+-Matt Ruby aka Matthew Stillman aka Vooza Founder aka The AKA Guy
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Copyright =C2=A9 2013 Vooza=2C All rights reserved.
+ You are getting this email because you signed up for the Vooza email list=
+ at our website.
+
+Our mailing address is:
+Vooza
+7 S Portland Ave
+Brooklyn=2C NY 11217
+
+** unsubscribe from this list (http://vooza.us4.list-manage1.com/unsubscri=
+be?u=3Df9406666fc987951aea7645f7&id=3Dce34736452&e=3Df280bf34b7&c=3D3d8068bb=
+38)
+** update subscription preferences (http://vooza.us4.list-manage2.com/prof=
+ile?u=3Df9406666fc987951aea7645f7&id=3Dce34736452&e=3Df280bf34b7)
+--_----------=_MCPart_1836943270
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <title>10 steps to becoming a brogrammer</title>
+=09=09
+    <style type=3D"text/css">
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09table=2Ctd{
+=09=09=09border-collapse:collapse;
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09#bodyTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09a=2Ca span=2Ca .yshortcuts{
+=09=09=09background:none !important;
+=09=09=09border-bottom:none !important;
+=09=09}
+=09=09h1{
+=09=09=09color:#FFFFFF;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:30px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#FFFFFF;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#202020;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:14px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#26ABE2;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.preheaderContent{
+=09=09=09color:#FFFFFF;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent a:link=2C.preheaderContent a:visited=2C.preheaderC=
+ontent a .yshortcuts {
+=09=09=09color:#FFFFFF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#505050;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding-top:30px;
+=09=09=09padding-right:0;
+=09=09=09padding-bottom:20px;
+=09=09=09padding-left:0;
+=09=09=09text-align:left;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link=2C.headerContent a:visited=2C.headerContent a=
+ .yshortcuts {
+=09=09=09color:#505050;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.bodyContent{
+=09=09=09color:#303030;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:13px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent a:link=2C.bodyContent a:visited=2C.bodyContent a .yshor=
+tcuts {
+=09=09=09color:#26ABE2;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#F4F4F4;
+=09=09}
+=09=09#templateFooter{
+=09=09=09border-top:0px none #ffffff;
+=09=09}
+=09=09.footerContent{
+=09=09=09color:#808080;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:10px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContent a:link=2C.footerContent a:visited=2C.footerContent a=
+ .yshortcuts {
+=09=09=09color:#808080;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:190px;
+=09=09}
+=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:auto !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[id=3DtemplatePreheader]{
+=09=09=09display:none;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:28px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img[id=3DheaderImage]{
+=09=09=09height:auto !important;
+=09=09=09width:233px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.headerContent{
+=09=09=09font-size:22px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img[class=3DbodyImage]{
+=09=09=09height:auto !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.bodyContent{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.footerContent{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContent] a{
+=09=09=09display:block !important;
+=09=09}
+
+}</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"margin: 0;padding: 0;background-color: #F4F4F=
+4;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border-collapse: collap=
+se;mso-table-lspace: 0pt;mso-table-rspace: 0pt;margin: 0;padding: 0;backgr=
+ound-color: #F4F4F4;height: 100% !important;width: 100% !important;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top" style=3D"border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                    =09<!-- // BEGIN PREHEADER -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"100%" id=3D"templatePreheader" style=3D"border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color: #26A=
+BE2;border-bottom: 0;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"320" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;">
+                                    =09<tr>
+                                        =09<td valign=3D"top" class=3D"pre=
+headerContent" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;color: #FFFFFF;font-family: Helvetica;font-size: 11px;=
+line-height: 125%;text-align: left;">Vooza | Funny videos about the startu=
+p world. New eps weekly.</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END PREHEADER \\ -->
+                    =09<!-- // BEGIN CONTAINER -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" id=3D"templateContainer" style=3D"border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                =09<!-- // BEGIN HEADER -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateHeader" style=3D"border-coll=
+apse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-colo=
+r: #FFFFFF;border-top: 0;border-bottom: 0;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"320" style=3D"border-collapse: colla=
+pse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                                =09<tr>
+                                                        <td class=3D"heade=
+rContent" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;color: #505050;font-family: Helvetica;font-size: 18px;font-=
+weight: bold;line-height: 100%;padding-top: 30px;padding-right: 0;padding-=
+bottom: 20px;padding-left: 0;text-align: left;vertical-align: middle;">
+                                                            <div style=3D"=
+text-align: center;"><a href=3D"http://vooza.us4.list-manage.com/track/cli=
+ck?u=3Df9406666fc987951aea7645f7&id=3Dde7a9b7b44&e=3Df280bf34b7" style=3D=
+"color: #505050;font-weight: normal;text-decoration: underline;background:=
+ none !important;border-bottom: none !important;"><img src=3D"https://gall=
+ery.mailchimp.com/f9406666fc987951aea7645f7/images/logo_orange_on_white_sm=
+e6b046.png" alt=3D"Vooza" border=3D"0" style=3D"border: px none;border-col=
+or: ;border-style: none;border-width: px;height: 82px;width: 140px;margin:=
+ 0;padding: 0;max-width: 320px;line-height: 100%;outline: none;text-decora=
+tion: none;" width=3D"140" height=3D"82" id=3D"headerImage campaign-icon">=
+</a></div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END HEADER \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                =09<!-- // BEGIN BODY -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateBody" style=3D"border-collap=
+se: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;background-color:=
+ #FFFFFF;border-top: 0;border-bottom: 0;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"320" style=3D"border-collapse: colla=
+pse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                                =09<tr>
+                                                        <td valign=3D"top"=
+ class=3D"bodyContent" style=3D"padding-top: 20px;padding-bottom: 20px;bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color:=
+ #303030;font-family: Helvetica;font-size: 13px;line-height: 150%;text-ali=
+gn: left;"><p class=3D"p2" style=3D"text-align: center; ">
+=09<span style=3D"font-size:38px; line-height:110%;">Watch:&nbsp;<a href=
+=3D"http://vooza.us4.list-manage.com/track/click?u=3Df9406666fc987951aea76=
+45f7&id=3D7d3008aab0&e=3Df280bf34b7" target=3D"_self" style=3D"color: #26=
+ABE2;font-weight: normal;text-decoration: none;background: none !important=
+;border-bottom: none !important;">10 Steps To Becoming A Brogrammer</a></s=
+pan></p>
+<p class=3D"p2">
+=09Crushing code and playing beer pong is just the beginning. Warning: Thi=
+s bromance does NOT end well.&nbsp;<a href=3D"http://vooza.us4.list-manage=
+=2Ecom/track/click?u=3Df9406666fc987951aea7645f7&id=3D754eee7ca7&e=3D=
+f280bf34b7" style=3D"background-color: rgb(255=2C 255=2C 255);color: #26ABE2;fon=
+t-weight: normal;text-decoration: none;background: none !important;border-=
+bottom: none !important;" target=3D"_self">Watch the newest Vooza video.</=
+a></p>
+<p class=3D"p1">
+=09<table id=3D"wistia_" style=3D"display:inline;" width=3D"460"><tr><td><=
+div style=3D"font-size:16px;"><div style=3D"width:450px;"><a href=3D"http:=
+//vooza.com/videos/10-steps-to-becoming-a-brogrammer?wkey=3DdG9tYXpAdG9tYXoubWU=3D&=
+foreign_data=3Dmailchimp_campaign_id%3A3d8068bb38" target=3D"_blank"><img=
+ alt=3D"Watch the Video" title=3D"Watch the Video" src=3D"http://gallery.m=
+ailchimp.com/f9406666fc987951aea7645f7/images/mcvid_wistia_4na39qbye6_450.=
+jpg" border=3D"0"></a></div></div></td></tr></table></p>
+<div>
+=09<p class=3D"p2">
+=09=09<strong>The @VoozaHQ Hot Five</strong><br>
+=09=09We&#39;re speaking truth to power (or is it sarcasm to a sea of apat=
+hy?) on Twitter...</p>
+=09<ol>
+=09=09<li>
+=09=09=09<div>
+=09=09=09=09Stop giving the NSA such a hard time...</div>
+=09=09=09<div>
+=09=09=09=09Problem: Terrorists hate us for our freedoms.</div>
+=09=09=09Solution: Take away our own freedoms.&nbsp;(<a href=3D"http://voo=
+za.us4.list-manage.com/track/click?u=3Df9406666fc987951aea7645f7&id=3Dec2c=
+f06086&e=3Df280bf34b7" style=3D"background-color: rgb(255=2C 255=2C 255);=
+color: #26ABE2;font-weight: normal;text-decoration: none;background: none=
+ !important;border-bottom: none !important;" target=3D"_self">Tweet</a>)</=
+li>
+=09=09<li>
+=09=09=09We don&rsquo;t make distinctions between IA and UI and UX. To us=
+=2C they are all meaningless acronyms. (<a href=3D"http://vooza.us4.list-m=
+anage1.com/track/click?u=3Df9406666fc987951aea7645f7&id=3D3e0d1f770f&e=3D=
+f280bf34b7" style=3D"background-color: rgb(255=2C 255=2C 255);color: #26AB=
+E2;font-weight: normal;text-decoration: none;background: none !important;b=
+order-bottom: none !important;" target=3D"_self">Tweet</a>)</li>
+=09=09<li>
+=09=09=09Coding is like jazz. No one wants to hear you talk about it. (<a=
+ href=3D"http://vooza.us4.list-manage.com/track/click?u=3Df9406666fc987951=
+aea7645f7&id=3De30c6ea95b&e=3Df280bf34b7" style=3D"background-color: rgb(=
+255=2C 255=2C 255);color: #26ABE2;font-weight: normal;text-decoration: non=
+e;background: none !important;border-bottom: none !important;" target=3D"_=
+self">Tweet</a>)</li>
+=09=09<li>
+=09=09=09Just saw cutest popup alert ever! &quot;Connect your Bing account=
+ now.&quot; Okaaay=2C I&#39;ll get right on that...after I pet my Loch Nes=
+s Unicorn. (<a href=3D"http://vooza.us4.list-manage1.com/track/click?u=3Df=
+9406666fc987951aea7645f7&id=3D6a37c14631&e=3Df280bf34b7" style=3D"backgro=
+und-color: rgb(255=2C 255=2C 255);color: #26ABE2;font-weight: normal;text-=
+decoration: none;background: none !important;border-bottom: none !importan=
+t;" target=3D"_self">Tweet</a>)</li>
+=09=09<li>
+=09=09=09Gotta give it to Bezos. Travelling to outer space and running a p=
+rofitable newspaper are both glorious fantasies! (<a href=3D"http://vooza.=
+us4.list-manage.com/track/click?u=3Df9406666fc987951aea7645f7&id=3Dc2d154f=
+f87&e=3Df280bf34b7" style=3D"background-color: rgb(255=2C 255=2C 255);col=
+or: #26ABE2;font-weight: normal;text-decoration: none;background: none !im=
+portant;border-bottom: none !important;" target=3D"_self">Tweet</a>)</li>
+=09</ol>
+=09<p class=3D"p1">
+=09=09Get in the mix here:&nbsp;<a href=3D"http://vooza.us4.list-manage.co=
+m/track/click?u=3Df9406666fc987951aea7645f7&id=3D672e6494a2&e=3D=
+f280bf34b7" target=3D"_blank" style=3D"color: #26ABE2;font-weight: normal;text-deco=
+ration: none;background: none !important;border-bottom: none !important;">=
+Follow @VoozaHQ at Twitter</a>&nbsp;and/or&nbsp;<a href=3D"http://vooza.us=
+4.list-manage.com/track/click?u=3Df9406666fc987951aea7645f7&id=3D4b3e74342=
+7&e=3Df280bf34b7" target=3D"_blank" style=3D"color: #26ABE2;font-weight:=
+ normal;text-decoration: none;background: none !important;border-bottom: n=
+one !important;">&quot;Like&quot; us on Facebook.</a></p>
+=09<p class=3D"p2">
+=09=09<b>[Sponsor] Get your WordPress fix from Fantastik</b><br>
+=09=09Vooza uses&nbsp;<a href=3D"http://vooza.us4.list-manage1.com/track/c=
+lick?u=3Df9406666fc987951aea7645f7&id=3Ddddca992ed&e=3Df280bf34b7" target=
+=3D"_self" style=3D"color: #26ABE2;font-weight: normal;text-decoration: no=
+ne;background: none !important;border-bottom: none !important;">Fantastik<=
+/a>&nbsp;for WordPress support. They can do &quot;any one&nbsp;thing WordP=
+ress&quot; for $99. Viva simple pricing!&nbsp;<a href=3D"http://vooza.us4.=
+list-manage1.com/track/click?u=3Df9406666fc987951aea7645f7&id=3Da889275e11=
+&e=3Df280bf34b7" target=3D"_self" style=3D"color: #26ABE2;font-weight: no=
+rmal;text-decoration: none;background: none !important;border-bottom: none=
+ !important;">Learn more about Fantastik.</a>&nbsp;[Want to get your compa=
+ny or product in front of Vooza&#39;s audience?&nbsp;<a href=3D"http://voo=
+za.us4.list-manage.com/track/click?u=3Df9406666fc987951aea7645f7&id=3D5306=
+ae33f8&e=3Df280bf34b7" target=3D"_self" style=3D"color: #26ABE2;font-weig=
+ht: normal;text-decoration: none;background: none !important;border-bottom=
+: none !important;">More details here.</a>]</p>
+=09<p class=3D"p1">
+=09=09<strong>Recently on Vooza</strong><br>
+=09=09You have to treat social media like a fire. Add logs all day. And th=
+en watch your day go up in flames....</p>
+=09<p class=3D"p1">
+=09=09<table id=3D"wistia_" style=3D"display:inline;" width=3D"460"><tr><t=
+d><div style=3D"font-size:16px;"><div style=3D"width:450px;"><a href=3D"ht=
+tp://vooza.com/videos/how-to-get-eyeballs-on-social-media/?wkey=3D=
+dG9tYXpAdG9tYXoubWU=3D&foreign_data=3Dmailchimp_campaign_id%3A3d8068bb38" target=3D"_blank"=
+><img alt=3D"Watch the Video" title=3D"Watch the Video" src=3D"http://gall=
+ery.mailchimp.com/f9406666fc987951aea7645f7/images/mcvid_wistia_yxdmv4gjn2=
+_450.1.jpg" border=3D"0"></a></div></div></td></tr></table><br>
+=09=09And that&#39;s the end of the line.</p>
+</div>
+-Matt Ruby aka Matthew Stillman aka Vooza Founder aka The AKA Guy</td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END BODY \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+">
+                                =09<!-- // BEGIN FOOTER -->
+                                =09<table border=3D"0" cellpadding=3D"20"=
+ cellspacing=3D"0" width=3D"100%" id=3D"templateFooter" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-top: 0=
+px none #ffffff;">
+                                    =09<tr>
+                                        =09<td align=3D"center" valign=3D"=
+top" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;">
+                                            =09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"320" style=3D"border-collapse: colla=
+pse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+                                                =09<tr>
+                                                        <td valign=3D"top"=
+ class=3D"footerContent" style=3D"border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;color: #808080;font-family: Helvetica;font-s=
+ize: 10px;line-height: 150%;text-align: left;"><br>
+<br>
+<br>
+<br>
+<em>Copyright &copy; 2013 Vooza=2C All rights reserved.</em><br>
+ You are getting this email because you signed up for the Vooza email list=
+ at our website.<br>
+<br>
+<strong>Our mailing address is:</strong><br>
+<div class=3D"vcard"><span class=3D"org fn">Vooza</span><div class=3D"adr"=
+><div class=3D"street-address">7 S Portland Ave</div><span class=3D"locali=
+ty">Brooklyn</span>=2C <span class=3D"region">NY</span>  <span class=3D"po=
+stal-code">11217</span></div><br><a href=3D"http://vooza.us4.list-manage1.=
+com/vcard?u=3Df9406666fc987951aea7645f7&id=3Dce34736452" class=3D"hcard-do=
+wnload">Add us to your address book</a></div>
+<br>
+<br>
+ </td>
+                                                    </tr>
+                                                    <tr>
+                                                    =09<td colspan=3D"3" v=
+align=3D"top" class=3D"footerContent" style=3D"padding-top: 20px;border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;color: #80808=
+0;font-family: Helvetica;font-size: 10px;line-height: 150%;text-align: lef=
+t;">
+                                                        =09<a href=3D"http=
+://vooza.us4.list-manage1.com/unsubscribe?u=3Df9406666fc987951aea7645f7&id=
+=3Dce34736452&e=3Df280bf34b7&c=3D3d8068bb38" style=3D"color: #808080;font-we=
+ight: normal;text-decoration: underline;background: none !important;border=
+-bottom: none !important;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp=
+;<a href=3D"http://vooza.us4.list-manage2.com/profile?u=3Df9406666fc987951=
+aea7645f7&id=3Dce34736452&e=3Df280bf34b7" style=3D"color: #808080;font-weigh=
+t: normal;text-decoration: underline;background: none !important;border-bo=
+ttom: none !important;">update subscription preferences</a>&nbsp;
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- END FOOTER \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- END CONTAINER \\ -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://vooza.us4.list-manage.com/track/open.php?u=3Df94066=
+66fc987951aea7645f7&id=3D3d8068bb38&e=3Df280bf34b7" height=3D"1" width=3D=
+"1"></body>
+</html>
+--_----------=_MCPart_1836943270--

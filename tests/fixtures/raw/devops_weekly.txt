@@ -1,0 +1,192 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: tomaz+devopsweekly@tomaz.me
+Received: by 10.50.40.162 with SMTP id y2csp29408igk;
+        Sun, 18 Aug 2013 04:29:08 -0700 (PDT)
+X-Received: by 10.224.98.198 with SMTP id r6mr100007qan.103.1376825347388;
+        Sun, 18 Aug 2013 04:29:07 -0700 (PDT)
+Return-Path: <bounce-mc.us2_2809746.1297081-tomaz+devopsweekly=tomaz.me@mail296.us2.mcsv.net>
+Received: from mail296.us2.mcsv.net (mail296.us2.mcsv.net. [173.231.184.8])
+        by mx.google.com with ESMTP id q8si2367908qek.4.1969.12.31.16.00.00;
+        Sun, 18 Aug 2013 04:29:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us2_2809746.1297081-tomaz+devopsweekly=tomaz.me@mail296.us2.mcsv.net designates 173.231.184.8 as permitted sender) client-ip=173.231.184.8;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us2_2809746.1297081-tomaz+devopsweekly=tomaz.me@mail296.us2.mcsv.net designates 173.231.184.8 as permitted sender) smtp.mail=bounce-mc.us2_2809746.1297081-tomaz+devopsweekly=tomaz.me@mail296.us2.mcsv.net;
+       dkim=pass header.i=gareth=3Dmorethanseven.net@mail296.us2.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail296.us2.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:Content-Transfer-Encoding; i=gareth=3Dmorethanseven.net@mail296.us2.mcsv.net;
+ bh=IcgPNXoYe4obWVrasPVY0SGsIh0=;
+ b=igYKP2XQp6kiC/3Xew+qTBGB4I39vdri/By5/vT7532pSNBF7qf5cSKxzC6cPTUT/fZZHJSULIzj
+   FReBjUVQfMtZhL4D/EKdMKQBzjdJjUm5uA0dJCjO27Mxp2ulLBp1Nftlg8dNM+KUnc/7Hh6IUyrH
+   79sX+Nxt/G2Ash1EePU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail296.us2.mcsv.net;
+ b=EhyLB+SuQ2ALkJn6h/7XwsVvobt8o96vN55y4D8ASiwJtncOgVnsS0X/UTMUY1RS3IV4vKI8fUqE
+   dN95QIynZQUl6eMh2tW5OndUcIUv9c2AqWsK3rDlnqfAb2qFJlrgdnI7rx//BrJojovgSG9PVxKU
+   G5AFndnOco46tA11lL8=;
+Received: from (127.0.0.1) by mail296.us2.mcsv.net id h22muk14i1s7 for <tomaz+devopsweekly@tomaz.me>; Sun, 18 Aug 2013 11:19:07 +0000 (envelope-from <bounce-mc.us2_2809746.1297081-tomaz+devopsweekly=tomaz.me@mail296.us2.mcsv.net>)
+Subject: =?utf-8?Q?Devops=20Weekly=20#137?=
+From: =?utf-8?Q?Devops=20Weekly?= <gareth@morethanseven.net>
+Reply-To: =?utf-8?Q?Devops=20Weekly?= <gareth@morethanseven.net>
+To: <tomaz+devopsweekly@tomaz.me>
+Date: Sun, 18 Aug 2013 11:19:07 +0000
+Message-ID: <b6635e37e35fa5eff0c2a947a1fefb30bcc.20130818112750@mail296.us2.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID80cb23a3e81fefb30bcc**
+X-Campaign: mailchimpb6635e37e35fa5eff0c2a947a.80cb23a3e8
+X-campaignid: mailchimpb6635e37e35fa5eff0c2a947a.80cb23a3e8
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=b6635e37e35fa5eff0c2a947a&id=80cb23a3e8&e=1fefb30bcc
+X-MC-User: b6635e37e35fa5eff0c2a947a
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-b6635e37e35fa5eff0c2a947a-80cb23a3e8-1fefb30bcc@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://devopsweekly.us2.list-manage1.com/unsubscribe?u=b6635e37e35fa5eff0c2a947a&id=a63f24d068&e=1fefb30bcc&c=80cb23a3e8>
+Sender: "Devops Weekly" <gareth=morethanseven.net@mail296.us2.mcsv.net>
+x-mcda: FALSE
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+DEVOPS WEEKLY
+ISSUE #137 - 18th August 2013
+
+I'm in San Francisco this coming week for PuppetConf. If anyone is around=
+ and wants to meetup let me know at @garethr on Twitter. If I've got the t=
+iming right next weeks issue should be written from San Francisco airport=
+=2C if not it might be late Monday for the next instalment of Devops Weekl=
+y.
+
+A quick correction from last week. The email to get in touch with Paul if=
+ you=E2=80=99re interested in mentoring in New York should have been pnasr=
+at@gmail.com.
+
+
+Sponsor
+=3D=3D=3D=3D=3D=3D
+
+Devops Weekly is sponsored by Brightbox Cloud - launch cloud servers in mu=
+ltiple UK datacentres in seconds...
+
+http://brightbox.com
+
+
+News
+=3D=3D=3D=3D
+
+Good post about the benefits and technicalities of building a continuous d=
+elivery pipeline. Some useful diagrams about tooling=2C  I was particularl=
+y interesting in the automation of a confidence score for canary builds.
+
+http://techblog.netflix.com/2013/08/deploying-netflix-api.html
+
+
+A nice post entitled Production is all that matters. Goes into quite a bit=
+ of detail about why logging=2C statistics collection and and error handli=
+ng are important from a developers point of view.
+
+http://www.naildrivin5.com/blog/2013/06/16/production-is-all-that-matters.=
+html
+
+
+Ease of deployment is a nice property of any software=2C and this post exp=
+lains why Go makes building software without dependencies easy=2C and why=
+ that makes it perfect for systems administration and automation.
+
+http://blog.lusis.org/blog/2013/08/11/go-for-system-administrators/
+
+
+A tale of scaling log processing at Travis CI. Lots of thorny problems and=
+ how to solve them=2C focusing on the importance of ordering and database=
+ design.
+
+http://about.travis-ci.org/blog/2013-08-08-solving-the-puzzle-of-scalable-=
+log-processing/
+
+
+A nice collection of 14 short interviews from a range of people on the top=
+ic of how devops and application security fit together.
+
+http://trustedsoftwarealliance.com/resources-surveys-and-papers/devops-and=
+-application-security-infographic/
+
+
+I=E2=80=99ve seen quite a bit of interest recently about measuring communi=
+ty engagement. This post pulls lots of numbers from the Chef community=2C=
+ in particular showing the growth of the Chef community cookbooks site and=
+ mailing list and IRC chatter.
+
+http://ranjib.com/2013/03/05/community-cookbooks-at-a-glance/
+
+
+FuzzDB is an open source database of attack patterns=2C predictable resour=
+ce names=2C  regex patterns for identifying interesting server responses=
+=2C and documentation resources from Mozilla. Useful for anyone building s=
+ecurity tooling.
+
+https://blog.mozilla.org/security/2013/08/16/introducing-fuzzdb/
+https://code.google.com/p/fuzzdb/
+
+
+Events
+=3D=3D=3D=3D=3D=3D
+
+Devops days is coming to Atlanta on October 3rd and 4th at the Academy of=
+ Medicine at Georgia Tech. Tickets are already on sale and the programme s=
+hould be announced soon.
+
+http://devopsdays.org/events/2013-atlanta/
+
+
+Tools
+=3D=3D=3D=3D
+
+If you=E2=80=99re like me you often have several Vagrant managed boxes aro=
+und for different projects. The vagrant global status plugin might therefo=
+re be useful=2C it tracks all your vagrant machines state=2C making it eas=
+ier to track which boxes are currently running.
+
+https://github.com/fgrehm/vagrant-global-status
+
+
+Marelle is a new configuration management and systems administration frame=
+work written in Prolog. It=E2=80=99s not designed to be as large as Chef o=
+r Puppet=2C but the logic based programming approach is certainly interest=
+ing.
+
+http://larsyencken.github.io/marelle/
+
+
+Lots of tooling around docker at the moment. Maestro allows for describing=
+ multiple docker containers and their dependencies=2C and then managing th=
+em via a simple command line interface.
+
+https://github.com/toscanini/maestro
+
+
+Vegeta is a command line load testing tool written in Go. It allows you to=
+ specify a constant request rate=2C and can output results as text or SVG.=
+ The interface is certainly simpler than similar tools like ab or httperf.
+
+https://github.com/tsenart/vegeta
+
+
+Nginx is an incredibly useful and powerful piece of software=2C but I find=
+ you often want to roll your own packages to include one module or another=
+=2E This omnibus installer helps with automating building those packages=2C=
+ and already includes lots of nginx modules including the openresty distri=
+bution.
+
+https://github.com/bakins/omnibus-nginx
+
+
+
+If you received this email directly then you're already signed up=2C thank=
+s! If however someone forwarded this email to you and you'd like to get it=
+ each week then you can subscribe at http://devopsweekly.com
+
+--
+
+You opted in for Devops Weekly at http://devopsweekly.com
+
+You can always unsubscribe by visiting http://devopsweekly.us2.list-manage=
+1.com/unsubscribe?u=3Db6635e37e35fa5eff0c2a947a&id=3Da63f24d068&e=3D=
+1fefb30bcc&c=3D80cb23a3e8
+
+If you have other queries you can contact the list maintainer at gareth@mo=
+rethanseven.net
+
+Our mailing address is 43 Gwydir Street=2C Cambridge=2C UK=2C CB1 2LG
